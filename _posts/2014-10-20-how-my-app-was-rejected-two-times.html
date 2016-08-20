@@ -1,0 +1,51 @@
+---
+layout: post
+title: How My App Was Rejected Two Times.
+date: '2014-10-20T21:30:59+01:00'
+tags: []
+tumblr_url: http://borisy.net/post/100524859080/how-my-app-was-rejected-two-times
+---
+<p>When I submitted <a href="http://borisy.net/altershot">Altershot</a> for the first time I was confident about Apple approving it. I was wrong.</p>
+
+<p>I already had experience releasing very simple app <a href="http://borisy.net/numpick">NumPick.</a> But Altershot is much more complicated. In someway it mimics iOS system interface, to be precise — status bar. I didn’t thought about it. Apple gave me a very short explanation.</p>
+
+<blockquote>
+<p>You can’t use any misleading elements in your application bundle or metadata.</p>
+</blockquote>
+
+<p>It doesn’t sound like exactly like this. Unfortunately I didn’t saved original text. But these was how I remember it. </p>
+
+<p>I blamed iTunes connect metadata. Precisely, screenshots. My iTunes Connect screenshots showed some apps from the App Store. So I swapped them with system apps, improved my code and submitted new 1.0. In a week review team rejected it again. This time I saved ther comments. </p>
+
+<blockquote>
+<p>22.2: Apps that contain false, fraudulent or misleading representations or use names or icons similar to other Apps will be rejected.
+We found that your app, and/or its metadata, contains content that could be misleading to users, which is not in compliance with the App Store Review Guidelines.
+Specifically, it would be appropriate to revise your app name and app icon.</p>
+</blockquote>
+
+<p>Wasn’t enough for me. I asked for further explanations and recieved quick response.</p>
+
+<blockquote>
+<p>We found that the metadata could mislead users to believe that this app can alter the system wide status bar UI.</p>
+
+<p>Specifically:</p>
+
+<ul><li><p>The app name claims to “AlterStatus”, which implies that this app can alter the status bar</p></li>
+<li><p>We found the screenshots provided show how the status bar will look before and after using this app. Once again, which implies that this app has features that could alter the status bar</p></li>
+</ul><p>Next, we found that the binary contains an issue with 8.3:</p>
+
+<p>We found that your app includes a feature, or features, that mimic an iOS interface or behavior, which is not in compliance with the App Store Review Guidelines.</p>
+
+<p>Specifically we found that the app contains a “Preview” of the status bar, which mimics the iOS status bar.</p>
+</blockquote>
+
+<p>I rolled up my sleeves and started to work. Instead of be angry I took this as an opportunity. One month after I got <a href="http://borisy.net/post/100187906870/how-to-pick-a-name-for-ios-app">the new name,</a> new icon, improved UI, performance, refactored MVC code and even new pricing model.</p>
+
+<p>Here what I did.</p>
+
+<ol><li>Changed app UI. Now in editor screenshot is always scaled down, so it can’t be confused with real status bar. I also putted it in <code>UIScrollView</code>. User can scroll and be sure that this is just a photo.</li>
+<li>Changed app name from <em>AlterStatusy</em> to <em>Altershot</em>.</li>
+<li>Replaced screenshots. Each of them has <em>screenshot</em> word.</li>
+<li>New price model. I will post about it after app is released.</li>
+<li>Added app preview.</li>
+</ol><p>This is the second blog post about Altershot development. The first is <a href="http://borisy.net/post/100187906870/how-to-pick-a-name-for-ios-app">here.</a></p>
