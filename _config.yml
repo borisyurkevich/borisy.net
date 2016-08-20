@@ -6,10 +6,8 @@
 
 name: borisy.net
 url: borisy.net
-
 permalink: /:year/:month/:day/:title/
 paginate: 10
-
 title: borisy.net
 email: boris.yurkevich@gmail.com
 description: critical thinking from  enthusiast
@@ -17,9 +15,5 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://borisy.net" # the base hostname & protocol for your site
 twitter_username: borisyurkeivich
 github_username:  borisyurkeivich
-
-# Build settings
 markdown: kramdown
-theme: minima
-
 gems: [jekyll-paginate]
