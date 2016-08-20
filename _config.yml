@@ -10,7 +10,7 @@ permalink: /:year/:month/:day/:title/
 paginate: 10
 title: borisy.net
 email: boris.yurkevich@gmail.com
-description: critical thinking from  enthusiast
+description: 'Blog about Apple, tehnology and games.'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://borisy.net" # the base hostname & protocol for your site
 twitter_username: borisyurkeivich
