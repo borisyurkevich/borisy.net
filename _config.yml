@@ -1,9 +1,25 @@
-name: Solar Theme
-url: http://example.org
-description: A stylish blog using the Solarized color palette
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+name: borisy.net
+url: borisy.net
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
 
+title: borisy.net
+email: boris.yurkevich@gmail.com
+description: critical thinking from  enthusiast
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://borisy.net" # the base hostname & protocol for your site
+twitter_username: borisyurkeivich
+github_username:  borisyurkeivich
+
+# Build settings
+markdown: kramdown
+theme: minima
+
 gems: [jekyll-paginate]
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
