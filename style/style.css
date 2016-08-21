@@ -48,7 +48,6 @@ a:hover {
 }
 
 p, pre { margin-bottom: 15px; }
-ul, ol { padding: 0 0 18px 30px; }
 ol li, ul li { margin-top: 10px; margin-bottom: 10px; }
 em, i { font-style: italic; }
 strong, b { font-weight: bold; }
@@ -116,7 +115,7 @@ h3 {
 
 #header {
 	width: 500px;
-	margin: 40px auto 50px auto;
+	margin: 40px auto 40px auto;
 }
 #header h1 {
 	font-size: 32px;
@@ -224,7 +223,13 @@ img.center {
 /*** Media Queries ***/
 @media all and (max-width: 870px) {
 
-	#page, #header, #content, #footer {
+	#header {
+		width: inherit;
+		padding-left: 20px;
+		padding-right: 10px;
+	}
+
+	#page, #content, #footer {
 		width: inherit;
 		padding-left: 10px;
 		padding-right: 10px;
