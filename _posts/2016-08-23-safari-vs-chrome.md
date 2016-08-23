@@ -8,13 +8,13 @@ Apple [claims](http://www.apple.com/safari/) that Safari is "Faster than Chrome 
 
 ## Apple results.
 
-<img src="{{site.url}}/images/apple-safari-test.png" alt="Chart. JetStream. Safari is 1.15x faster than Firefox and 1.07x faster than Chrome. Speedometer, Safari more than twice as fast as Firefox and 1.8x faster than Chrome. JSBench, Safari is 6 times faster than Firefox and Chrome altogether." width="50%"/>
+<img src="{{site.url}}/images/apple-safari-test.png" alt="Chart. JetStream. Safari is 1.15x faster than Firefox and 1.07x faster than Chrome. Speedometer, Safari more than twice as fast as Firefox and 1.8x faster than Chrome. JSBench, Safari is 6 times faster than Firefox and Chrome altogether." width="75%"/>
 
 ## My results.
 
-<img src="{{site.url}}/images/chart-speedometer.png" alt="Speedometer chart. Safari 166, Chrome 157, Safari Preview 175, Chrome Canary 162. Higher is better." width="50%"/>
+<img src="{{site.url}}/images/chart-speedometer.png" alt="Speedometer chart. Safari 166, Chrome 157, Safari Preview 175, Chrome Canary 162. Higher is better." width="75%"/>
 
-<img src="{{site.url}}/images/chart-jetstream.png" alt="JetStream chart. Safari 91, Chrome 83, Safari Preview 102, Chrome Canary 94, iOS Safari 83 Higher is better." width="50%"/>
+<img src="{{site.url}}/images/chart-jetstream.png" alt="JetStream chart. Safari 91, Chrome 83, Safari Preview 102, Chrome Canary 94, iOS Safari 83 Higher is better." width="75%"/>
 
 ## Conclusions.
 
