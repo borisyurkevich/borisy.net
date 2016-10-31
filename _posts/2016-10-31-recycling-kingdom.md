@@ -10,37 +10,35 @@ Back in Russia the only thing I cared is collecting batteries 🔋🗑 and moder
 
 ## Mixed Recycling.
 
-<figure>
 <img src="{{site.url}}/images/oxford-bin.jpg" alt="Black rectangular bin with a sticker that shows whats recyclable." width="75%"/>
-<figcaption>Black rectangular bin with a sticker that shows what&#8217;s recyclable.</figcaption>
-</figure>
 
 As I learned, recycling saves money — which means less taxes, less energy, which is good for preventing Climate Change and it helps to reduce amount of waste we throwing into oceans and land. Less people give a though about Recycling and Nature in Moscow but here in 🇬🇧 everyone contributes to a some degree, from a local council to every home. Mixed Recycling is simple, you don't need to separate glass from metal.
 
 ### Some answers.
 
-* Anything that has multiple layers is not recyclable, for example, crisp bags, single tea bags wrap paper.
-* Rinse containers, jars and pods from food.
-* Tear off plastic windows from mail envelops. 
-* Tear off non recyclable label from plastic bottles. 
-* Sign up for paperless bills for the services you're paying for.
-* Paper receipts are not recyclable because of the chemical ink.
-* Buy biodegradable water wipes and diapers for your baby. 
-* Don't throw away bread film,[^4] bring them to Waitrose. This kind of film have following logo. I also saw it on Coke cans multi-pack wrap.
+Anything that has multiple layers is not recyclable, for example, crisp bags, single tea bags wrap paper.
 
-<figure>
-<img src="{{site.url}}/images/bread-film.jpg" alt="Recycle with carrier bags at larger stores logo" title="The logo from bread package." width="75%"/>
-<figcaption>Recycle with carrier bags at larger stores logo</figcaption>
-</figure>
+Rinse containers, jars and pods from food.
+
+Tear off plastic windows from mail envelops. 
+
+Tear off non recyclable label from plastic bottles. 
+
+Sign up for paperless bills for the services you're paying for.
+
+Paper receipts are not recyclable because of the chemical ink.
+
+Buy biodegradable water wipes and diapers for your baby. 
+
+Don't throw away bread film,[^4] bring them to Waitrose. This kind of film have following logo. I also saw it on Coke cans multi-pack wrap.
+
+<img src="{{site.url}}/images/bread-film.jpg" alt="Recycle with carrier bags at larger stores logo" title="The logo from bread package." width="45%"/>
 
 Finally, bring your own cup to coffee shop, it'll even cost you less in Starbucks. Mixed paper coffee cups are never recycleble but sometimes you can tear off paper wrap.
 
 Every council has different recycling facilities, for example, only some kinds of plastic are recyclable. Use internet to get all the information you can from your local council. Unfortunately, almost no one gives a full information, each plastic box is marked with a number from 1 and up. Oxford council has [information](https://www.oxford.gov.uk/download/downloads/id/302/plastic_recycling_leaflet.pdf "Plastic Recycling Leaflet") about what numbers are recyclable. Even if plastic don't have a number you can try to stretch it or to squeeze it, if it keeps shape, it can be recycled. Look at this illustrations:
 
-<figure>
 <img src="{{site.url}}/images/plastic-test.jpg" alt="2 pictures with a hand squeezing plastic packages, one of them stays the same and other spreads out. First is recyclable." title="How to test plastic" width="75%" />
-<figcaption>2 pictures with a hand squeezing plastic packages, one of them stays the same and other spreads out. First is recyclable.</figcaption>
-</figure>
 
 **When in doubt ** always use general waste bin, the risk of contaminating perfectly recyclable materials is worst than not recycling one item.
 
@@ -64,19 +62,13 @@ The best place to bring your old iPhone, laptop or any other electronic device i
 
 I also found this black bins in the center of London.
 
-<figure>
 <img src="{{site.url}}/images/ewaste.jpg" alt="Black metal box for throwing away small electric devices." width="75%" />
-<figcaption>Black metal box for throwing away small electric devices.</figcaption>
-</figure>
 
 Donate your old electronics or sell it on eBay. Don't throw it away. 
 
 ## Air Pollution.
 
-<figure>
 <img src="{{site.url}}/images/air-sign.jpg" alt="Crossed truck sign. Please respect our residents and switch off your engine when stationary. Hackney." width="75%"/>
-<figcaption>Crossed truck sign. Please respect our residents and switch off your engine when stationary. Hackney.</figcaption>
-</figure>
 
 Air in London is better than in Moscow, where government burns waste right in the center of the city in multiple places, there's no cyclists, roads are very busy, electric cars are non existent and all the trucks going right through the city center because there's no separate road for them. I see more green areas in London. 🌳
 
