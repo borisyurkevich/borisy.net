@@ -10,7 +10,7 @@ Back in Russia the only thing I cared is collecting batteries 🔋🗑 and moder
 
 ## Mixed Recycling.
 
-<img src="{{site.url}}/images/oxford-bin.jpg" alt="Black rectangular bin with a sticker that shows whats recyclable." width="75%"/>
+<img src="{{site.url}}/images/oxford-bin.jpg" alt="Black rectangular bin with a sticker that shows whats recyclable." width="50%"/>
 
 As I learned, recycling saves money — which means less taxes, less energy, which is good for preventing Climate Change and it helps to reduce amount of waste we throwing into oceans and land. Less people give a though about Recycling and Nature in Moscow but here in 🇬🇧 everyone contributes to a some degree, from a local council to every home. Mixed Recycling is simple, you don't need to separate glass from metal.
 
@@ -38,7 +38,7 @@ Finally, bring your own cup to coffee shop, it'll even cost you less in Starbuck
 
 Every council has different recycling facilities, for example, only some kinds of plastic are recyclable. Use internet to get all the information you can from your local council. Unfortunately, almost no one gives a full information, each plastic box is marked with a number from 1 and up. Oxford council has [information](https://www.oxford.gov.uk/download/downloads/id/302/plastic_recycling_leaflet.pdf "Plastic Recycling Leaflet") about what numbers are recyclable. Even if plastic don't have a number you can try to stretch it or to squeeze it, if it keeps shape, it can be recycled. Look at this illustrations:
 
-<img src="{{site.url}}/images/plastic-test.jpg" alt="2 pictures with a hand squeezing plastic packages, one of them stays the same and other spreads out. First is recyclable." title="How to test plastic" width="75%" />
+<img src="{{site.url}}/images/plastic-test.jpg" alt="2 pictures with a hand squeezing plastic packages, one of them stays the same and other spreads out. First is recyclable." title="How to test plastic" width="50%" />
 
 **When in doubt ** always use general waste bin, the risk of contaminating perfectly recyclable materials is worst than not recycling one item.
 
@@ -62,13 +62,13 @@ The best place to bring your old iPhone, laptop or any other electronic device i
 
 I also found this black bins in the center of London.
 
-<img src="{{site.url}}/images/ewaste.jpg" alt="Black metal box for throwing away small electric devices." width="75%" />
+<img src="{{site.url}}/images/ewaste.jpg" alt="Black metal box for throwing away small electric devices." width="50%" />
 
 Donate your old electronics or sell it on eBay. Don't throw it away. 
 
 ## Air Pollution.
 
-<img src="{{site.url}}/images/air-sign.jpg" alt="Crossed truck sign. Please respect our residents and switch off your engine when stationary. Hackney." width="75%"/>
+<img src="{{site.url}}/images/air-sign.jpg" alt="Crossed truck sign. Please respect our residents and switch off your engine when stationary. Hackney." width="50%"/>
 
 Air in London is better than in Moscow, where government burns waste right in the center of the city in multiple places, there's no cyclists, roads are very busy, electric cars are non existent and all the trucks going right through the city center because there's no separate road for them. I see more green areas in London. 🌳
 
