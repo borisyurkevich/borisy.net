@@ -10,7 +10,7 @@ I keep working on Altershot, my personal product which I created when I had a ne
 
 Here's how Apple presents iOS 10 on their US website. If you change its region, format of the time on screenshots also changes. For example, some countries have "9.41" instead of "9:41 AM". The same true for watchOS screenshots.[^1] The latest Altershot update is released today and it allows editing watchOS screenshots. 
 
-<img src="{{site.url}}/images/altershot-photos.jpg" alt="Editing watchOS screenshot in Photos Extension." width="50%"/>
+<img src="{{site.url}}/images/altershot-photos-extension.jpg" alt="Editing watchOS screenshot in Photos Extension." width="50%"/>
 
 With iOS 8 Apple introduced Photos Extensions but not many people know about it. iOS 10 includes Apple's own Extension called Markup, I hope this will make it more discoverable. Latest Altershot update has Photos Extension.
 
