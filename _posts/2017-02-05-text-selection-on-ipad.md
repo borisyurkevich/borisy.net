@@ -11,7 +11,7 @@ At first I would always connect my Applet Wireless Keyboard before working on lo
 1. I can start immediately.
 2. I can work on any surface at any place.
 3. Quick Type suggestions easier to reach.
-4. When I need to be quiet I can disable sound.
+4. When I need to be quiet, I can disable sound.
 5. When sound is on it is superior experience to mechanical sound because different keys produce different sound.
 
 Typing on glass is entirely different experience. However I don't think it is lesser experience, moreover I think MacBook keyboard will be replaced with touch screen eventually. I am finding typing on glass easier and easier. You don't need to press on keys and I like it. The same reason I prefer keyboards with less travel. I think it's a direction we going to. It just a matter of practice and you can be as much productive as with hardware keyboard.
