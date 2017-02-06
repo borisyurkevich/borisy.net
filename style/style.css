@@ -55,8 +55,6 @@ small { font-size: 0.85em; }
 sup { vertical-align: super; font-size: 0.85em; }
 sub { vertical-align: sub; font-size: 0.85em; }
 
-article > ul, ol { padding: 0 0 18px 30px; }
-
 code {
     font: 0.85em Monaco, Courier, Monospace;
 }
@@ -181,6 +179,14 @@ article img {
 	display: block;
 	text-align: center;
 	margin: 0 auto 1em auto;
+}
+
+article ul { 
+    padding: 0 0 18px 30px; 
+}
+
+article ol { 
+    padding: 0 0 18px 30px; 
 }
 
 article .meta {
