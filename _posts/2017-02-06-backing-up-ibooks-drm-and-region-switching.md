@@ -42,8 +42,7 @@ Sometimes I get error message. I don't remember details but it is obvious that e
 
 ## Update on Publishing.
 
-Just about an hour ago Dimsumthinking [wrote a blog post](http://dimsumthinking.com/Blog/2017/02/07-IWishAppleLovedBooks.html) about iBooks Author and how Apple abandoned its development. That's also sad to hear knowing how much worse Amazon tools are. This is massive opportunity for Apple.
-
-However I don't agree with all statements in the post. I appreciate iBooks Store strong privacy and the fact that publishers can't get their hands on my email address.
+Just about an hour ago Dimsumthinking [wrote excellent blog post](http://dimsumthinking.com/Blog/2017/02/07-IWishAppleLovedBooks.html) about iBooks Author and how Apple abandoned its development. I am mostly agree[^2] with the post and I hope Apple will continue investing into iBooks Author especially knowing how much worse Amazon tools are. This is missed opportunity for Apple to capture more creative publishers.
 
 [^1]: The same is true for movies, TV shows and music.
+[^2]: Dimsumthinking mentioned that he is appreciating ability to email his customers who acquired book through Gum Road. I do understand benefits but as consumer I also value the fact that iBooks Store doesn't disclose my email address.
