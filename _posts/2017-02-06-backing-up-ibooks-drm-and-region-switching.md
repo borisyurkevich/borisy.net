@@ -40,5 +40,10 @@ I noticed very curious thing when adding books I purchased from US Store into iB
 
 Sometimes I get error message. I don't remember details but it is obvious that ePub format needs to be improved, especially, error handling. There's nothing worse than get your book corrupted when you don't have an internet connection.
 
-[^1]: The same is true for movies, TV shows and music.
+## Update on Publishing.
 
+Just about an hour ago Dimsumthinking [wrote a blog post](http://dimsumthinking.com/Blog/2017/02/07-IWishAppleLovedBooks.html) about iBooks Author and how Apple abandoned its development. That's also sad to hear knowing how much worse Amazon tools are. This is massive opportunity for Apple.
+
+However I don't agree with all statements in the post. I appreciate iBooks Store strong privacy and the fact that publishers can't get their hands on my email address.
+
+[^1]: The same is true for movies, TV shows and music.
