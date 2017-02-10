@@ -25,7 +25,7 @@ Unfortunately Apple doesn't include it with iOS. To make your own you can use [P
 4. You will get empty canvas with your device screen size. Tap *Create.*
 5. Tap on the + icon, select Layers control.
 <img src="{{site.url}}/images/Pixelmator-layers.jpg" alt="Pixelmator Layers." width="40%"/>
-6. Select black square.
+6. Select black rectangle.
 7. Tap Activity Sheet button and save image to Photos.
 8. Open Photos, tap on the Activity Sheet icon and tap *Use as Wallpaper.*
 
