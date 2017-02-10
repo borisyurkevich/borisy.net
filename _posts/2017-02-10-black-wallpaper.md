@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Black Wallpaper"
+title:  "Black Wallpaper."
 date:  2017-02-10T18:54:08+0000
 ---
 
