@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The State of iBooks in Early 2017"
+title:  "The State of iBooks in Early 2017."
 date:  2017-02-19T12:56:27+0000
 external-url: http://tidbits.com/article/17053
 ---
