@@ -4,7 +4,7 @@ title:  "Low Brightness Bug in iOS 10.2.1"
 date:  2017-02-20T23:06:23+0000
 ---
 
-<p style style="color:black;"> **If you having Low Brightness issue, turning Zoom on and off in Settings > General > Accessibility can help you.**<p/>
+<p style style="color:black;"><b>If you having Low Brightness issue, turning Zoom on and off in Settings > General > Accessibility can help you.</b><p/>
 
 With iOS 10.2.1 update Apple engineers fixed [lots of security problems.](https://support.apple.com/en-us/HT207482) I was impressed with the list of fixes and the fact that Apple credited some people and organisations which helped to discover the problems.
 
