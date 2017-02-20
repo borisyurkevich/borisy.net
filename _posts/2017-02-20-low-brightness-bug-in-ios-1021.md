@@ -16,7 +16,8 @@ Turns out there's real bug which locks maximum iPhone 6 and 6s[^2] brightness at
 <br>  
 <img src="{{site.url}}/images/brightness-bug.jpg" alt="Two iPhone 6 phones. Left is without latest update. Right is with latest update. Left screen is much brighter." width="337"/>
 <i>Two iPhone 6 phones. Left is without latest update. Right is with latest update. Both set to full brightness. Image from Tim Carr's tweet.</i>
-  
+<br>  
+
 We tried to troubleshoot it and came to a conclusion that's issue was in iOS not his iPhone. I hoped that Apple Support could help and encouraged Tim to talk to them. That's didn't help at all. Tim tried to reach them in many ways — through Twitter and phone calls and couldn't get any solution. In his desperation he even tweeted to Tim Cook:[^1]
 
 <blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr"><a href="https://twitter.com/tim_cook">@tim_cook</a> I&#39;m registered blind. Now I cannot use my phone as soon as the battery hits 70% because the screen is so dim. I&#39;ve logged a call..</p>&mdash; Tim Carr (@TimothyDRCarr) <a href="https://twitter.com/TimothyDRCarr/status/825116715361112064">27 January 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -34,6 +35,7 @@ Instead they making it worse:
 <blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr"><a href="https://twitter.com/AppleSupport">@AppleSupport</a> you&#39;ve closed two of my posts down too. There were disabled users in them watching for any update. Now they can&#39;t.</p>&mdash; Tim Carr (@TimothyDRCarr) <a href="https://twitter.com/TimothyDRCarr/status/825136607649005569">28 January 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 As Tim found out, there's a workaround. I mentioned it on the top. I also submitted <a href="https://openradar.appspot.com/30612785">a radar #30612785.</a> Let's hope it's going to be fixed.  
-  
+<br>  
+<br>  
 [^1]: Note Apple Support monitors tweets to Tim Cook.
 [^2]: I couldn't reproduce issue on my 6s which means not all devices affected.
