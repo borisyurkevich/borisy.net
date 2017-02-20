@@ -16,6 +16,7 @@ Turns out there's real bug which locks maximum iPhone 6 and 6s[^2] brightness at
 <br>  
 <br>  
 <img src="{{site.url}}/images/brightness-bug.jpg" alt="Two iPhone 6 phones. Left is without latest update. Right is with latest update. Left screen is much brighter." width="337"/>
+<br>  
 <i>Two iPhone 6 phones. Left is without latest update. Right is with latest update. Both set to full brightness. Image from Tim Carr's tweet.</i>
 <br>  
 <br>  
