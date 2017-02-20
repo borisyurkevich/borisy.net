@@ -14,8 +14,10 @@ I went to Twitter to find out how update is doing, as I sometimes do, and found 
 
 Turns out there's real bug which locks maximum iPhone 6 and 6s[^2] brightness at certain battery levels. Tim Carr is registered blind and having maximum screen brightness at all time is very important for him and many other users with visual disabilities.  Quick search brought this <a href="http://forums.imore.com/ask-rene/382928-dim-iphone-screen-after-updating-ios-10-2-1-a.html">iMore forum thread</a> which proves that's it's not isolated problem.
 <br>  
+<br>  
 <img src="{{site.url}}/images/brightness-bug.jpg" alt="Two iPhone 6 phones. Left is without latest update. Right is with latest update. Left screen is much brighter." width="337"/>
 <i>Two iPhone 6 phones. Left is without latest update. Right is with latest update. Both set to full brightness. Image from Tim Carr's tweet.</i>
+<br>  
 <br>  
 
 We tried to troubleshoot it and came to a conclusion that's issue was in iOS not his iPhone. I hoped that Apple Support could help and encouraged Tim to talk to them. That's didn't help at all. Tim tried to reach them in many ways — through Twitter and phone calls and couldn't get any solution. In his desperation he even tweeted to Tim Cook:[^1]
@@ -38,4 +40,5 @@ As Tim found out, there's a workaround. I mentioned it on the top. I also submit
 <br>  
 <br>  
 [^1]: Note Apple Support monitors tweets to Tim Cook.
+<br>
 [^2]: I couldn't reproduce issue on my 6s which means not all devices affected.
