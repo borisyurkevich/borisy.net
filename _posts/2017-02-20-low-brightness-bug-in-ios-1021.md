@@ -33,8 +33,8 @@ Instead they making it worse:
 
 <blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr"><a href="https://twitter.com/AppleSupport">@AppleSupport</a> you&#39;ve closed two of my posts down too. There were disabled users in them watching for any update. Now they can&#39;t.</p>&mdash; Tim Carr (@TimothyDRCarr) <a href="https://twitter.com/TimothyDRCarr/status/825136607649005569">28 January 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-As Tim found out, there's a workaround. I mentioned it on the top. I also submitted [a radar #30612785.][3] Let's hope it's going to be fixed.
-
+As Tim found out, there's a workaround. I mentioned it on the top. I also submitted [a radar #30612785.](3) Let's hope it's going to be fixed.  
+  
 [^1]: Note Apple Support monitors tweets to Tim Cook.
 [^2]: I couldn't reproduce issue on my 6s which means not all devices affected.
 [3]: https://openradar.appspot.com/30612785
