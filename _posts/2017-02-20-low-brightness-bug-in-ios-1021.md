@@ -13,10 +13,10 @@ I went to Twitter to find out how update is doing, as I sometimes do, and found 
 <blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Do not update to iOS 10.2.1. It breaks your screen brightness.</p>&mdash; Tim Carr (@TimothyDRCarr) <a href="https://twitter.com/TimothyDRCarr/status/823649398999678976">23 January 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 Turns out there's real bug which locks maximum iPhone 6 and 6s[^2] brightness at certain battery levels. Tim Carr is registered blind and having maximum screen brightness at all time is very important for him and many other users with visual disabilities.  Quick search brought this [iMore forum thread](http://forums.imore.com/ask-rene/382928-dim-iphone-screen-after-updating-ios-10-2-1-a.html) which proves that's it's not isolated problem.
-
+  
 <img src="{{site.url}}/images/brightness-bug.jpg" alt="Two iPhone 6 phones. Left is without latest update. Right is with latest update. Left screen is much brighter." width="337"/>
-*Two iPhone 6 phones. Left is without latest update. Right is with latest update. Both set to full brightness. Image from Tim Carr's tweet.*
-
+*Two iPhone 6 phones. Left is without latest update. Right is with latest update. Both set to full brightness. Image from Tim Carr's tweet.*  
+  
 We tried to troubleshoot it and came to a conclusion that's issue was in iOS not his iPhone. I hoped that Apple Support could help and encouraged Tim to talk to them. That's didn't help at all. Tim tried to reach them in many ways — through Twitter and phone calls and couldn't get any solution. In his desperation he even tweeted to Tim Cook:[^1]
 
 <blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr"><a href="https://twitter.com/tim_cook">@tim_cook</a> I&#39;m registered blind. Now I cannot use my phone as soon as the battery hits 70% because the screen is so dim. I&#39;ve logged a call..</p>&mdash; Tim Carr (@TimothyDRCarr) <a href="https://twitter.com/TimothyDRCarr/status/825116715361112064">27 January 2017</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -37,4 +37,4 @@ As Tim found out, there's a workaround. I mentioned it on the top. I also submit
 
 [^1]: Note Apple Support monitors tweets to Tim Cook.
 [^2]: I couldn't reproduce issue on my 6s which means not all devices affected.
-[2]: https://openradar.appspot.com/30612785
+[3]: https://openradar.appspot.com/30612785
