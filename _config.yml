@@ -4,15 +4,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-name: borisy.net
-url: borisy.net
+name: 'Cocoa Switch'
+url: cocoaswitch.com
 permalink: /:year/:month/:day/:title/
 paginate: 10
-title: borisy.net
+title: Cocoa Switch
 email: boris.yurkevich@gmail.com
-description: 'Blog about Apple, tehnology and games.'
+description: 'By Boris Yurkevich.'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://borisy.net" # the base hostname & protocol for your site
+url: "http://cocoaswitch.com" # the base hostname & protocol for your site
 twitter_username: borisyurkeivich
 github_username:  borisyurkeivich
 markdown: kramdown
