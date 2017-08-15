@@ -1,4 +1,8 @@
-# Let Safari Be Different. Case Against Favicons.
+---
+layout: post
+title:  "Let Safari Be Different. Case Against Favicons."
+date: 2017-08-15T23:23+0000
+---
 
 Idea of why Safari team should change its original design and add favicons getting big traction among Daring Fireball users. [Jhon Gruber wrote](https://daringfireball.net/2017/08/safari_should_display_favicons_in_its_tabs) that most of his readers think that Safari team should include favicons in its browser. I have different opinion. 
 
