@@ -60,9 +60,9 @@ To fix this, we can create `SortOptions` struct which defines `SortType` enum an
 I included  `SortOptions` struct into `PhotosCollectionViewController` which is fine but I didn’t connect `UISegmentedControl` directly to `PhotosCollectionViewController` like it’s done in naive model. Instead, I created `SortViewController` and took advantage of Cocoa Touch Container View. This allows me to move `UISegmentedControl` into separate Storyboard file, meaning if UI changes, `PhotosCollectionViewController` will work the same, only `SortViewController` would require change. As long as our collection view conforms to `SortableCollection` protocol and communicates through `SortViewController`, design does not violates The Dependency Inversion Principle.
 
 ## Bibliography.
-[SOLID (object-oriented design)][3]
-[Principles Of OOD, Robert C. Martin (Uncle BOB)][4]
-[Swift implementation for The Principles of OOD based on Uncle Bob articles.][5]
+* [SOLID (object-oriented design)][3]
+* [Principles Of OOD, Robert C. Martin (Uncle BOB)][4]
+* [Swift implementation for The Principles of OOD based on Uncle Bob articles.][5]
 
 ## Xcode project.
 [Project is available on GitHub.][6]
