@@ -65,7 +65,7 @@ I included  `SortOptions` struct into `PhotosCollectionViewController` which is 
 [Swift implementation for The Principles of OOD based on Uncle Bob articles.][5]
 
 ## Xcode project.
-[Project is available in GitHub.][6]
+[Project is available on GitHub.][6]
 
 
 [1]:	mailto:boris.yurkevich@gmail.com
