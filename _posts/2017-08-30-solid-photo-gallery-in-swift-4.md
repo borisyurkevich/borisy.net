@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “SOLID Photo Gallery in Swift 4”
+title:  "SOLID Photo Gallery in Swift 4"
 date:   2017-08-30T03:59+0000
 ---
 
