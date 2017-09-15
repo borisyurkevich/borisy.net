@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Raise of Smart Consumer."
