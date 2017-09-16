@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Apps Should Work Offline with Visible Status Bar."
+title:  "Apps Should Work Offline, with Visible Status Bar."
 date:  2017-09-16T18:28:54+0000
 ---
 
