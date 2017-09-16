@@ -17,8 +17,8 @@ Recently we shipped goEvo [(iOS),][4] app with daily planner for meals and exerc
 Every non-web software developer should understand that application they develop should not require immediate internet connection. It’s not hard to do, and it’s good for performance and energy efficiency. Otherwise what’s point of making native app? If Carrot Weather can’t do data persistence, they should’ve focus their development building web application instead.
 
 [1]:	https://itunes.apple.com/gb/app/carrot-weather/id961390574?mt=8&uo=4&at=1010l4GJ
-[2]:	https://itunes.apple.com/gb/app/carrot-weather/id961390574?mt=8&uo=4&at=1010l4GJ
-[3]:	https://itunes.apple.com/gb/app/carrot-weather/id961390574?mt=8&uo=4&at=1010l4GJ
+[2]:	https://itunes.apple.com/gb/app/carrot-weather-talking-forecast-robot/id993487541?mt=12&uo=4&at=1010l4GJ
+[3]:	https://itunes.apple.com/gb/app/super-mario-run/id1145275343?mt=8&uo=4&at=1010l4GJ
 [4]:	https://itunes.apple.com/gb/app/goevo/id1204199991?mt=8&uo=4&at=1010l4GJ
 
 [image-1]:	{{site.url}}/images/weather-vs-carrot.jpg "Apple Weather and Carrot Weather while offline"
