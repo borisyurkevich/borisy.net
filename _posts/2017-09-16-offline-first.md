@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Apps Should Work Offline with Visible Status Bar.“
+title:  "Apps Should Work Offline with Visible Status Bar."
 date:  2017-09-16T18:28:54+0000
 ---
 
@@ -21,4 +21,4 @@ Every non-web software developer should understand that application they develop
 [3]:	https://itunes.apple.com/gb/app/carrot-weather/id961390574?mt=8&uo=4&at=1010l4GJ
 [4]:	https://itunes.apple.com/gb/app/goevo/id1204199991?mt=8&uo=4&at=1010l4GJ
 
-[image-1]:	%7B%7Bsite.url%7D%7D/images/weather-vs-carrot.png "Apple Weather and Carrot Weather while offline"
+[image-1]:	{{site.url}}/images/weather-vs-carrot.png "Apple Weather and Carrot Weather while offline"
