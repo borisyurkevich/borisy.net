@@ -1,8 +1,7 @@
-
 ---
 layout: post
-title:  "State of Mobile Gaming."
-date:  2017-10-30T11:53+0000
+title: "State of Mobile Gaming."
+date: 2017-10-30T11:53+0000
 ---
 
 ![Black iPhone and Nintendo 3DS on the white desk.][image-1]
@@ -14,10 +13,10 @@ Is it because price raise to the bottom or short playing sessions or lack of phy
 Nintendo is very smart by releasing [Switch][5] which can be used in commute and games which can be played together with all necessary controllers included, games which use consoles unique features (HD Rumble). It’s a natural evolution for 3DS. I am very happy about progress they made and have a lot of hope that people who experienced game on Nintendo console will never look towards Rovio, King again.
 
 
+[image-1]:  {{ site.url }}/images/iPhone-vs-3DS.jpg "iPhone and Nintendo 3DS"
+
 [1]:	https://www.amazon.co.uk/gp/product/B00S84TXLM/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B00S84TXLM&linkCode=as2&tag=courageousi0c-21&linkId=a4639dc567f3eb97c7dd9a1965f39737
 [2]:	https://itunes.apple.com/gb/app/monument-valley/id728293409?mt=8&uo=4&at=1010l4GJ
 [3]:	https://www.amazon.co.uk/gp/product/B0753JH6VV/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B0753JH6VV&linkCode=as2&tag=courageousi0c-21&linkId=df9564e109a5972d4310934e96838ee3
 [4]:	https://www.amazon.co.uk/gp/product/B01G8H8AWI/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B01G8H8AWI&linkCode=as2&tag=courageousi0c-21&linkId=1601d0e3f90870fc84a0bb752e7286c1
 [5]:	https://www.amazon.co.uk/gp/product/B06XYSLG5F/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B06XYSLG5F&linkCode=as2&tag=courageousi0c-21&linkId=77c5a965623a2dc86684cf7d5e19151a
-
-[image-1]:	{{ site.url }}/images/iPhone-vs-3DS.jpg "iPhone and Nintendo 3DS"
