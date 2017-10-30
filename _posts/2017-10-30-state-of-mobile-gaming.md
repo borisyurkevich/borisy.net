@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title:  “State of Mobile Gaming.”
+title:  "State of Mobile Gaming."
 date:  2017-10-30T11:53+0000
 ---
 
@@ -20,4 +20,4 @@ Nintendo is very smart by releasing [Switch][5] which can be used in commute and
 [4]:	https://www.amazon.co.uk/gp/product/B01G8H8AWI/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B01G8H8AWI&linkCode=as2&tag=courageousi0c-21&linkId=1601d0e3f90870fc84a0bb752e7286c1
 [5]:	https://www.amazon.co.uk/gp/product/B06XYSLG5F/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B06XYSLG5F&linkCode=as2&tag=courageousi0c-21&linkId=77c5a965623a2dc86684cf7d5e19151a
 
-[image-1]:	%7B%7B%20site.url%20%7D%7D/images/iPhone-vs-3DS.jpg "iPhone and Nintendo 3DS"
+[image-1]:	{{ site.url }}/images/iPhone-vs-3DS.jpg "iPhone and Nintendo 3DS"
