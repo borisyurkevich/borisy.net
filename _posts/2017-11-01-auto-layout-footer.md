@@ -40,7 +40,7 @@ labelHeightConstraint.isActive = false
 
 ## iPhone X
 
-I thought I was done but when I run the code I realised it's very broken on new iPhone X. Here's code snippet that helped me.
+I thought I was done but when I run the code I realised it was broken on new iPhone X. Here's code snippet that helped me.
 
 {% highlight swift %}
 override func viewDidAppear(_ animated: Bool) {
