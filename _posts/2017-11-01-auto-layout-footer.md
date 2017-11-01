@@ -35,6 +35,8 @@ So far I have no content and we had to increase label heigh so footer sticks to 
 labelHeightConstraint.isActive = false
 {% endhighlight %}
 
+![2 screens with text taking all the space.][image-3]
+
 
 ## iPhone X
 
@@ -53,8 +55,6 @@ The key is `viewDidAppear` because safe area insets equal to zero in `viewDidLoa
 I noticed that iPhone X screen is very tall so all my text was visible and footer was in the middle of the screen, I had to activate constraint again. Only disable height constraint when you have many pages of content, iPhone X can fit surprising amount of information.
 
 ![iPhone X screenshot][image-4]
-
-![2 screens with text taking all the space.][image-3]
 
 [1]:	https://www.natashatherobot.com/ios-autolayout-scrollview/
 [2]:    https://github.com/borisyurkevich/Scroll-View-with-Footer
