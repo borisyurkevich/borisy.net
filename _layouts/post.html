@@ -4,12 +4,12 @@ layout: default
 <article class="post">
 
 	{% if page.external-url %}
-		<h1>
+		<h2>
 			<a href="{{ page.external-url }}">{{ page.title }}</a> 
 			<a class="anchor" href="{{ page.url }}">⚓️</a>
-		</h1>
+		</h2>
 	{% else %}
-		<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+		<h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
 	{% endif %}
 
 	<div class="post-content">{{ content }}</div>
