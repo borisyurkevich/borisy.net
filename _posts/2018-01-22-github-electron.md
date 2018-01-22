@@ -36,7 +36,7 @@ Another subtle benefit using native app is lack of need to click twice when wind
 ### Conclusion.  
 Web apps never going to feel native. You can call it "React native" but it will not make code more native. You can call it "Electron" but it will not make app size smaller and efficient. 
 
-[Native GitHub Desktop app is no longer available but you can download my copy.][1] I still use it to this day and I will continue until it works.
+[Native GitHub Desktop app is no longer available but you can download my copy.][1] I still use it to this day and I will continue until it stopps working.
 
 [image-1]:	{{ site.url }}/images/github-electron-web.png
 [image-2]:	{{ site.url }}/images/app-size.png
