@@ -26,8 +26,10 @@ New app has black top and white content area. That’s not a good look, usually 
 
 On the screenshots you can see how basic “Add Local Repository” interface differs. Pay attention on the buttons styles, old GitHub apps has familiar buttons looks which is the same as any other Mac app, while new Electron app has its own style. Not only it looks out of place, this also adds additional cognitive load. The same is true for apps font, old app uses excellent system font. At least Cancel button is on the left.
 
-Last let’s click on the File menu. Menu bar is important on Mac. Everything that’s app does can be accesses from menu bar, it allows user to study what app can do, it also displays shortcut commands. Now here, I have to say, new GitHub Desktop does not a bad job, some web apps don’t have menu commands at all. However particularly in the File menu I noticed that old app had more options.  
+Last let’s click on the File menu. Menu bar is important on Mac. Everything that’s app does can be accesses from menu bar, it allows user to study what app can do, it also displays shortcut commands.  
 ![Menu comparison][image-4]
+
+Now here, I have to say, new GitHub Desktop does not a bad job, some web apps don’t have menu commands at all. However particularly in the File menu I noticed that old app had more options. One of most important changes is ability to open multiple windows. This core function is lacking from Electron version.
 
 Another subtle benefit using native app is lack of need to click twice when window not active. Any web site or web app can recognize click only in active mode. Normal Mac apps can receive click events even when window not active. For example, you can click on the + button in top right corner of GitHub Desktop even when window is not active. Any web application will require 2 clicks in this situation.  
 
