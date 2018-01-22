@@ -15,7 +15,7 @@ All my iOS wallpapers are black. I am using simple black wallpaper for iPhone mo
 
 Note original iPhone had black wallpaper.
 
-## How to Make One.
+### How to Make One.
 
 Unfortunately Apple doesn't include it with iOS. To make your own you can use [Pixelmator app.](https://itunes.apple.com/gb/app/pixelmator/id924695435?mt=8&uo=4&at=1010l4GJ)
 

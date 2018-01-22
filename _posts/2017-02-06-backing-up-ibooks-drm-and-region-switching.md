@@ -25,22 +25,22 @@ Sync was always a mystery for me. Generally it is very robust and fast. There's 
 
 Because Mac is required to create a backup file for books purchased from iBooks Store, I don't recommend to anyone to buy from iBooks Store if they don't have access to Mac. 
 
-## Problem of DRM.
+### Problem of DRM.
 
 Everything purchased from iBooks is protected by publishers which means I'm as copy owner don't have control. Not every online book store is like this. You can get DRM free books from [Humble Bundle](https://www.humblebundle.com/books/hacks-book-bundle), [Oreilly](http://shop.oreilly.com/) and [Image Comics](https://imagecomics.com/) which I [wrote](
 /2013/07/17/image-comics-will-have-drm-free-comics/) about. I applaud to their initiative. I don't want my library to be forever locked inside of iBooks. It is important to have freedom to use any reader you like in case Apple goes out of books business or someone makes better reading app. As iPad user I appreciate that I can add any DRM free book into iBooks and read it there. I don't appreciate the fact that non iBooks books not syncing (luckily reading position, notes and bookmarks do), especially when I can sync PDF files easily.
 
-## Moving Region.
+### Moving Region.
 
 One other thing I hate about DRM is region locking. For instance, if I purchase book from UK Store and than move to United States Store it is my responsibility to have an extra copy somewhere because Apple would not allow to re-download it again from US Store.[^1] That's why I always have an external folder in iCloud Drive with my library.
 
 I noticed very curious thing when adding books I purchased from US Store into iBooks where I logged in with UK account. Books can be added very easy and Apple does not prevent me to read them. Apple will even sync this books across all my devices. However when I "remove the download", iBooks wouldn't allow me to download it again.
 
-## General Stability.
+### General Stability.
 
 Sometimes I get error message. I don't remember details but it is obvious that ePub format needs to be improved, especially, error handling. There's nothing worse than get your book corrupted when you don't have an internet connection.
 
-## Update on Publishing.
+### Update on Publishing.
 
 Just about an hour ago Dimsumthinking [wrote excellent blog post](http://dimsumthinking.com/Blog/2017/02/07-IWishAppleLovedBooks.html) about iBooks Author and how Apple abandoned its development. I am mostly agree[^2] with the post and I hope Apple will continue investing into iBooks Author especially knowing how much worse Amazon tools are. This is missed opportunity for Apple to capture more creative publishers.
 

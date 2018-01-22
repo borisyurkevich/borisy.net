@@ -38,7 +38,7 @@ labelHeightConstraint.isActive = false
 ![2 screens with text taking all the space.][image-3]
 
 
-## iPhone X
+### iPhone X
 
 I thought I was done but when I run the code I realised it was broken on new iPhone X. Here's code snippet that helped me.
 

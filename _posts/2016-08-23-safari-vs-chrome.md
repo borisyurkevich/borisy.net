@@ -6,17 +6,17 @@ date:   2016-08-23 9:00:00 +0100
 
 Apple [claims](http://www.apple.com/safari/) that Safari is "Faster than Chrome and Firefox." I've decided to perform my own test to see is this true. My test uses newer browser versions than Apple.[^1]
 
-## Apple results.
+### Apple results.
 
 <img src="{{site.url}}/images/apple-safari-test.png" alt="Chart. JetStream. Safari is 1.15x faster than Firefox and 1.07x faster than Chrome. Speedometer, Safari more than twice as fast as Firefox and 1.8x faster than Chrome. JSBench, Safari is 6 times faster than Firefox and Chrome altogether." width="75%"/>
 
-## My results.
+### My results.
 
 <img src="{{site.url}}/images/chart-speedometer.png" alt="Speedometer chart. Safari 166, Chrome 157, Safari Preview 175, Chrome Canary 162. Higher is better." width="75%"/>
 
 <img src="{{site.url}}/images/chart-jetstream.png" alt="JetStream chart. Safari 91, Chrome 83, Safari Preview 102, Chrome Canary 94, iOS Safari 83 Higher is better." width="75%"/>
 
-## Conclusions.
+### Conclusions.
 
 I can confirm, Safari is faster. I've tested the latest stable and preview versions. I've also tested iOS Safari which surprised me.
 
@@ -31,7 +31,7 @@ Read [this interesting article](https://blog.runspired.com/2016/03/25/the-chrome
 
 Also during the test I accidentally closed Chrome, when I opened it again it displayed not my last page but the page I had before. I tried to do the same in Safari and everything was as I left. This means Safari has better state preservation.
 
-## Specs.
+### Specs.
 
 I've used 2 JavaScript benchmarks on [browserbench.org](http://browserbench.org).
 

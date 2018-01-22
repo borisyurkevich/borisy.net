@@ -8,7 +8,7 @@ Goal of this exercise is to improve my code design. I am hearing a lot about SOL
 
 As mentioned by Robert C. Martin before, this principles is only recommendations and is not a law. Sometimes it is better to violate this good design principles but only when necessary. I also have to mentions that this is only mine interpretation, I can be wrong. Please [write to me][1] if you have any feedback.
 
-## Goal.
+### Goal.
 Applications accesses Flickr API and displays image gallery, displays meta data for each image.
 
 To satisfy acceptance criteria we need to display collection of photos, be able to show all metadata for each photo and perform actions on each photo. I designed 3 screens and to implement them we will need following:
@@ -18,12 +18,12 @@ To satisfy acceptance criteria we need to display collection of photos, be able 
 
 Let’s assume, later we will need to add sorting feature for the next version of application.
 
-## Naive Design.
+### Naive Design.
 For getting photos from Flickr singe service class is created. This class sends data to `PhotosCollectionViewController.`
 
 For the UI we use single Storyboard file.
 
-## Good Model Design.
+### Good Model Design.
 What makes design good or bad? How we can judge it? There’s 3 warnings signs in which we can evaluate design quality. This was described in [The Dependency Inversion Principle.][2]
 
 1. Code that hard to change.
@@ -59,12 +59,12 @@ To fix this, we can create `SortOptions` struct which defines `SortType` enum an
 
 I included  `SortOptions` struct into `PhotosCollectionViewController` which is fine but I didn’t connect `UISegmentedControl` directly to `PhotosCollectionViewController` like it’s done in naive model. Instead, I created `SortViewController` and took advantage of Cocoa Touch Container View. This allows me to move `UISegmentedControl` into separate Storyboard file, meaning if UI changes, `PhotosCollectionViewController` will work the same, only `SortViewController` would require change. As long as our collection view conforms to `SortableCollection` protocol and communicates through `SortViewController`, design does not violates The Dependency Inversion Principle.
 
-## Bibliography.
+### Bibliography.
 * [SOLID (object-oriented design)][3]
 * [Principles Of OOD, Robert C. Martin (Uncle BOB)][4]
 * [Swift implementation for The Principles of OOD based on Uncle Bob articles.][5]
 
-## Xcode project.
+### Xcode project.
 [Project is available on GitHub.][6]
 
 

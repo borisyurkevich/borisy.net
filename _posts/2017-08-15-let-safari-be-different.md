@@ -10,7 +10,7 @@ Safari should stay as it is, tabs should not have colourful favicons. Option in 
 
 I believe Safari designed to be minimal for multiple good reasons. It’s not hard to include them from technical perspective, this is clear design choice. 
 
-## Why Safari worse with favicons.
+### Why Safari worse with favicons.
 
 Let’s think why Apple designers decided not to include favicons into Safari. I can speculate on many reasons. First that’s coming into my mind is content. Apple wants us to focus on the material. Colourful icons row is another distraction which gets in our way when we reading article or navigating the page. Aesthetics important here. Safari looks nicer, favicons small and noisy. Favicons look cheap. Safari looks professional, it makes website stand out, it doesn’t compete with its content.
 
@@ -34,11 +34,11 @@ The second argument with many tabs in single window is also not a problem. I ope
 
 From what I saw, some Chrome users  maximise browser window, this is not how I use Safari, I have many narrow windows so I can see more than one page at a time and hide sidebar distractions behind the scroll area. This also means that I only have tabs I need for a given task.
 
-## Option in Preferences is bad solution.
+### Option in Preferences is bad solution.
 
 Now answering your possible question, why don't add option to the Preferences. If Apple designers would ever decide to add the option, it will be enabled by default. Most of people don't have time and energy to go through settings and fiddle with checkboxes — nerds love it, most of the people don't. App should be configured in a right way from the start. Hence if Apple designers think that favicons is the right way, they would ship new version with favicons and the will be no option to disable them. Because when you do need to open Preferences, less checkboxes means faster navigation, so there's no need to search for a toggle.
 
-## What if they do it.
+### What if they do it.
 I realise that how I use web browser might be not the right way for some people. I see more people use web applications instead of native apps and keep only one maximised window. I spend more time in apps and I use Dock more than I use tab picker. Safari is just another app for me and I don’t do everything there. For math or weather queries Spotlight feels better, I don’t listen to music on YouTube, I use Dictionary app for looking up a definition, I use Xcode documentation window and so on… Safari is just another app for me.
 
 People can change, designers change their opinion. It can happen. It will make me feel sad. Not as much sad as [spacial Finder](https://arstechnica.com/gadgets/2003/04/finder/) though.

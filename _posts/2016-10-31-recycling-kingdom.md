@@ -8,7 +8,7 @@ Coming to UK 🇬🇧 changed my live. I remember when I looked into a bus windo
 
 Back in Russia the only thing I cared is collecting batteries 🔋🗑 and modern lightbulbs. Before living, I made a trip to local IKEA shop to dispose batteries into a special bin. Battery throwed into a landfill poison soil and getting in the water. At that moment in 2014[^1] there was no way to dispose energy saving light bulbs so I stored them in a box with a warning note. ⚠️
 
-## Mixed Recycling.
+### Mixed Recycling.
 
 <img src="{{site.url}}/images/oxford-bin.jpg" alt="Black rectangular bin with a sticker that shows whats recyclable." width="50%"/>
 
@@ -42,11 +42,11 @@ Every council has different recycling facilities, for example, only some kinds o
 
 **When in doubt ** always use general waste bin, the risk of contaminating perfectly recyclable materials is worst than not recycling one item.
 
-## Food Waste.
+### Food Waste.
 
 Here in 🇬🇧 almost every kitchen has green Food Waste bucket with **biodegradable** line-in bags. Food waste is used to produce energy or safely composted. When you throw food into a plastic bag it creates greenhouse gas, poisons water and contributes to Climate Change. Don't use normal plastic bags for food waste.
 
-## Plastic Bags.
+### Plastic Bags.
 
 There's a new law which prohibits giving away plastic bags in groceries shops. Now they cost 5p. This had huge positive effect [^2], people now reusing their bags. I am always carrying a bag with me in my coat and I have one in my backpack. We have  cotton bags for a weekly groceries shopping. 
 
@@ -56,7 +56,7 @@ When you buy take-away, don't accept a bag, give it back, moreover bring your ow
 
 Home delivery food, which is very popular here, will give you food in a plastic bag. Yesterday we ordered Chinese and I tried to give it back to courier but he didn't want it and walked away quickly. Next time I will try to be more persuasive. 
 
-## Electronic waste.
+### Electronic waste.
 
 The best place to bring your old iPhone, laptop or any other electronic device is [Apple.](https://www.apple.com/recycling/) they even have special robot to disassemble every iPhone component. If your iPhone still works you can get money for it.
 
@@ -66,7 +66,7 @@ I also found this black bins in the center of London.
 
 Donate your old electronics or sell it on eBay. Don't throw it away. 
 
-## Air Pollution.
+### Air Pollution.
 
 <img src="{{site.url}}/images/air-sign.jpg" alt="Crossed truck sign. Please respect our residents and switch off your engine when stationary. Hackney." width="50%"/>
 
@@ -74,7 +74,7 @@ Air in London is better than in Moscow, where government burns waste right in th
 
 However, it is still bad even here and that's why government introduces new tax for old cars.[^3] When I see parked car with running engine I am telling the driver to turn it off, if this is a company car, I take a picture and write email. I always getting a response with a promise to advise their drivers. You can do the same.
 
-## Conclusion.
+### Conclusion.
 
 You might think that's I am overly optimistic and idealistic about this. Often people use wrong bin, don't separate food at all. I believe we can be better with this and we can encourage our neighbors and coworkers to be more thoughtful. We can't do everything right but at least some percent of the waste is properly disposed and this is already slowing down Climate Change. That's why when I see that's some people don't care it doesn't stops me from doing my part.
 
