@@ -20,6 +20,8 @@ Over past years I was collecting different custom implementations from all over 
 
 And still it remains secret to me why would anyone wants custom solution for this problem? Is this blunt ignorance or might be it is designers who think their design is better than standard solution? Or perhaps it's greed and website owner wants have more tracking? Anyway, this custom banners look worth and don't work well. They have worth privacy as well, so don't tap on them.
 
+[Screenshots edited in Altershot.][2]
+
 [image-2]:  {{ site.url }}/images/sap-ebay.jpg
 [image-3]:  {{ site.url }}/images/sap-glassdoor.jpg
 [image-4]:  {{ site.url }}/images/sap-tastemade.png
@@ -30,5 +32,7 @@ And still it remains secret to me why would anyone wants custom solution for thi
 [image-9]:  {{ site.url }}/images/sap-telegraph.jpg
 
 [1]:	https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariWebContent/PromotingAppswithAppBanners/PromotingAppswithAppBanners.html
+
+[2]: https://itunes.apple.com/gb/app/altershot/id911930618?mt=8&at=1010l4GJ&ct=1010l4GJ
 
 [image-1]:	https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariWebContent/Art/smartbanner_2x.png "Smart App Banner"
