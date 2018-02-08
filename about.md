@@ -6,15 +6,13 @@ permalink: /about/
 
 # About.
 
-Welcome to Cocoa Switch blog. I feel passionate about Open Web and independent content creation. This blog fulfilling my desire to write and share my opinion with others.
+Welcome to Cocoa Switch, blog about software, technology and games. Trying to focus on things which is not told anywhere else. Also posting photos which I used to post to Instagram.
 
-I am software engineer living in London, writing about software, technology and, sometimes, games. 
+I am software engineer living in London with my wife and son.
 
-Focus of this blog is expressing my thoughts and feelings about things which I want to share. I am trying to focus on something which has not been told before, things which is missed or not noticed.
+Although I am posting links here, I don't want this to be a link blog and when posting a link, there's something I would like to add.
 
-Although I am posting links here, I don't want this blog to be a link blog and when posting a link there's something I would like to add.
-
-I am not writing regularly and not covering news because there's writers who can do it much better.
+Not writing regularly and not covering news because there's writers who can do it much better.
 
 ## You Also May Like.
 
