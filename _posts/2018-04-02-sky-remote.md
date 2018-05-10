@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sky remote with Voice Control."
+title:  "Sky Remote With Voice Control."
 date:  2018-04-02T13:54+0000
 ---
 
