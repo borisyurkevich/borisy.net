@@ -31,6 +31,7 @@ h1 {
 	font: -apple-system-headline;
 	font-size: 32px;
 	font-weight: bold;
+	margin-top: 32px;
 }
 .lead {
 	font: -apple-system-subheadline;
@@ -150,6 +151,7 @@ acronym, abbr {
 	padding-top: 10px;
 	font: -apple-system-footnote;
 	border-top: 1px solid #073642;
+	margin-bottom: 32px;
 }
 
 #content {
