@@ -42,6 +42,7 @@ h2 {
 	font: -apple-system-subheadline;
 	font-size: 24px;
 	font-weight: bold;
+	padding-bottom: 10px;
 }
 h3 {
 	font: -apple-system-subheadline;
@@ -169,13 +170,6 @@ acronym, abbr {
 	margin: 2px 0;
 }
 
-#sidebar a {
-	border: none;
-	padding: 2px 4px;
-}
-
-
-
 /*** Posts ***/
 article {
 	margin-bottom: 40px;
@@ -246,7 +240,7 @@ article .meta {
 		text-align: left;
 		width: 100%;
 		left: 0;
-		margin: 10px 10px 20px 10px;
+		margin: 10px;
 	}
 
 	#sidebar nav select.mnav {
