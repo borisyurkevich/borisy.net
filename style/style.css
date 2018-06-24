@@ -3,15 +3,10 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 	margin: 0;
 	padding: 0;
 	border: 0;
-	font-size: 100%;
-	font: inherit;
 	vertical-align: baseline;
 }
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 	display: block;
-}
-body {
-	line-height: 1;
 }
 ol, ul {
 	list-style: bullet;
@@ -31,9 +26,24 @@ table {
 
 
 /*** Basics ***/
+
+h1 {
+	font: -apple-system-headline;
+}
+
+h2 {
+	font: -apple-system-subheadline;
+	margin: 0 0 10px 0;
+}
+
+h3 {
+	font: -apple-system-subheadline;
+	margin: 0 0 10px 0;
+}
+
 body {
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-	font-size: 13px;
+    font-family: -apple-system;
+	font: -apple-system-body;
 	line-height: 1.7;
 }
 
@@ -47,17 +57,37 @@ a:hover {
 	color: #000000;
 }
 
-p, pre { margin-bottom: 15px; }
+p, pre { 
+    margin-bottom: 15px; 
+}
+
 ol li, ul li { 
 	margin-top: 10px; 
 	margin-bottom: 10px; 
 	margin-left: 24px;
 }
-em, i { font-style: italic; }
-strong, b { font-weight: bold; }
-small { font-size: 0.85em; }
-sup { vertical-align: super; font-size: 0.85em; }
-sub { vertical-align: sub; font-size: 0.85em; }
+
+em, i { 
+    font-style: italic; 
+}
+
+strong, b { 
+    font-weight: bold; 
+}
+
+small { 
+    font-size: 0.85em; 
+}
+
+sup { 
+    vertical-align: super; 
+    font-size: 0.85em; 
+}
+
+sub { 
+    vertical-align: sub; 
+    font-size: 0.85em; 
+}
 
 code {
     font: 0.85em Monaco, Courier, Monospace;
@@ -78,22 +108,6 @@ acronym, abbr {
 	border-bottom: 1px dashed;
 }
 
-
-h1 {
-	font-size: 22px;
-	margin: 0 0 10px 0;
-}
-h2 {
-	font-size: 20px;
-	margin: 0 0 10px 0;
-}
-h3 {
-	font-size: 14px;
-	margin: 0 0 10px 0;
-}
-
-
-
 /*** Useful Classes ***/
 .clear { clear: both; }
 .float-left { float: left; }
@@ -102,13 +116,8 @@ h3 {
 .text-right { text-align: right; }
 .text-center { text-align: center; }
 .text-justify { text-align: justify; }
-.img-left { float: left; margin: 4px 10px 4px 0; }
-.img-right { float: right; margin: 4px 0 4px 10px; }
-.img-middle { vertical-align: middle; }
 .nopadding { padding: 0; }
 .nounderline { text-decoration: underline; }
-
-
 
 /*** Structure ***/
 #page {
@@ -121,10 +130,7 @@ h3 {
 	width: 500px;
 	margin: 40px auto 40px auto;
 }
-#header h1 {
-	font-size: 32px;
-	margin-bottom: 4px;
-}
+
 #header h1 a {
 	border: none;
 }
@@ -133,7 +139,7 @@ h3 {
 	width: 500px;
 	margin: 50px auto 20px auto;
 	padding-top: 10px;
-	font-size: 0.85em;
+	font: -apple-system-footnote;
 	border-top: 1px solid #073642;
 }
 
@@ -157,7 +163,6 @@ h3 {
 
 #sidebar a {
 	border: none;
-	font-size: 1.2em;
 	padding: 2px 4px;
 }
 
@@ -168,23 +173,20 @@ article {
 	margin-bottom: 40px;
 }
 
-article h1 {
-	font-size: 24px;
-	margin: 0 0 10px 0;
-}
 article h1 a {
 	border: none;
 }
+
 article h1 a.anchor {
 	margin-left: 8px;
 }
 
 article img {
 	display: block;
-	text-align: center;
-	margin: 0 auto 1em auto;
 	width: 100%;
-	height: auto;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 article ul { 
@@ -201,22 +203,6 @@ article .meta {
 	font-style: italic;
 }
 
-img.left {
-	float: left;
-	margin: 0 1em 1em 0;
-}
-img.right {
-	float: right;
-	margin: 0 0 1em 1em;
-}
-img.center {
-	display: block;
-	text-align: center;
-	margin: 0 auto 1em auto;
-}
-
-
-
 /*** Pagination ***/
 .postnavigation {
 	padding-top: 10px;
@@ -231,8 +217,6 @@ img.center {
 .postnavigation .right {
 	float: right;
 }
-
-
 
 /*** Media Queries ***/
 @media all and (max-width: 870px) {
@@ -263,4 +247,3 @@ img.center {
 	}
 
 }
-
