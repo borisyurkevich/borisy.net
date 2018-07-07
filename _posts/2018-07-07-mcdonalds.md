@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Boycott McCafé"
+title:  "Boycott McCafé."
 date:   2018-07-07T11:56+0000
 ---
 
@@ -36,11 +36,11 @@ McDonald's must change its stupid outdated policy about not allowing us to bring
 our own cups. I'm not buying their coffee any more and I encourage you to do 
 the same.
 
+![Me with collection of reusable coffee cups][1]
+
 If you do have any cups laying around, don't throw them in recycling bins please.
 Common coffee cups is paper combined with plastic. Costa and Starbucks can accept
 your cups from coffee and soft drinks and send them to a special place.
-
-![Me with collection of reusable coffee cups][1]
 
 [1]:{{site.url}}/images/coffee-cups.jpg
 [2]:{{site.url}}/images/mcafe-cups.jpg
