@@ -28,5 +28,5 @@ Go through all your apps in Settings > Privacy and disable everything you can.
 Often you can still get things done by pasting an image, 
 but sometimes the only private way is using Safari.
 
-[1]: access.jpg
+[1]: {{site.url}}/images/access.jpg
 [2]: https://github.com/borisyurkevich/PhotoPicker
