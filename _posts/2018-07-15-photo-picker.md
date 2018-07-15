@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why iOS Developers Ask for Photo Library Access."
+title:  "iOS Developers Lie in Photo Library Permissions Dialog"
 date:   2018-07-15T18:33+0000
 ---
 
@@ -9,7 +9,7 @@ date:   2018-07-15T18:33+0000
 If you try to change your profile picture on Telegram, it'll demand access
 to your entire photo library. Telegram doesn't need it. System image picker
 doesn't need user permission! But many developers intentionally lie to us, 
-so we would think we have to give permission. 
+so we would think we have to give a permission. 
 In fact permission is only needed to add new image to the library, 
 or for custom picker UI or if you want upload all of your pictures.
 
