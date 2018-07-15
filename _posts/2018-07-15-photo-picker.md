@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "iOS Developers Lie with Photo Permissions Dialog."
+title:  "How iOS Developers Lie with Photo Permissions Dialog."
 date:   2018-07-15T18:33+0000
 ---
 
