@@ -44,7 +44,7 @@ Thanks to GitHub for hosting this static blog for free. [It runs on Jekyll.][10]
 
 ## Contact Me.
 
-[boris.yurkevich@gmail.com][12]
+[boris@cocoaswitch.com][12]
 
 You're welcome to write. I read every email I get but can't promise response.
 
@@ -59,4 +59,4 @@ You're welcome to write. I read every email I get but can't promise response.
 [9]:	http://marcpalmer.net
 [10]:	https://jekyllrb.com
 [11]:	https://github.com/borisyurkevich/borisyurkevich.github.io
-[12]:	mailto:boris.yurkevich@gmail.com
+[12]:	mailto:boris@cocoaswitch.com

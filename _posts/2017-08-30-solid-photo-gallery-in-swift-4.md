@@ -68,7 +68,7 @@ I included  `SortOptions` struct into `PhotosCollectionViewController` which is 
 [Project is available on GitHub.][6]
 
 
-[1]:	mailto:boris.yurkevich@gmail.com
+[1]:	mailto:boris@cocoaswitch.com
 [2]:	http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgMjdlMWIzNGUtZTQ0NC00ZjQ5LTkwYzQtZjRhMDRlNTQ3ZGMz&hl=en
 [3]:	https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
 [4]:	http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod
