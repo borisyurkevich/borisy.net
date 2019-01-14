@@ -10,7 +10,7 @@ You won't understand it. Don't look for its reasons. Don't analyse it. Don't try
 
 Sad doesn't mean bad. Don't judge it. We getting ill sometimes and there's nothing wrong in illness itself, it happens and it's part of life. Depressed person are not to blame.
 
-You can save a live. It won't hurt to ask, "did you had suicidal thoughts?". Offer your time and support, refer your friend to suicide prevention service like [The American Foundation for Suicide Prevention][1] or [UK National Suicide prevention Alliance.][2] Don't let them go and disappear.
+You can save a life. It won't hurt to ask, "did you had suicidal thoughts?". Offer your time and support, refer your friend to suicide prevention service like [The American Foundation for Suicide Prevention][1] or [UK National Suicide prevention Alliance.][2] Don't let them go and disappear.
 
 [1]: https://afsp.org/find-support/
 [2]: http://www.nspa.org.uk/directories/
