@@ -10,7 +10,7 @@ Having lived with this setup, I found out that I have to perform this steps ever
 
 ### 1Password 7 and local mode.
 
-Although I'm paying for 1Password Family Subscription, I was experimenting with ways to run it locally. It wasn't obvious but I got it into stand-alone mode  accidentally after restoring from backup.
+Although I'm paying for 1Password Family Subscription, I was experimenting with ways to run it locally. It wasn't obvious but I got it into stand-alone mode accidentally after restoring from backup.
 
 It's easy with 1Password 6.
 
