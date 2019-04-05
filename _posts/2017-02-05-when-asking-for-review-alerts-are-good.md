@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "When Asking for Review, Alerts Are Good."
+title: "When Asking for a Review, Alerts Are Good."
 date: '2017-02-05T00:26:43+0000'
 external-url: http://blog.supertop.co/post/156735025162/notifications-are-better-than-alerts
 ---
