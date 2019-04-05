@@ -6,12 +6,11 @@ date:  2019-02-18T22:47+0000
 
 ### Be warned.
 
-Having lived for this setup for a while, I have to warn you, you have to perform this steps every time the app is updated. You also can't use it together with 
-Safari extension.
+Having lived with this setup, I found out that I have to perform this steps every time the app is updated. I also have to disable Safari extension.
 
 ### 1Password 7 and local mode.
 
-Although I'm paying for 1Password Family Subscription, I was experimenting with ways to run it locally. It wasn't obvious but I got it into stand-alone mode  accidently after restoring from backup.
+Although I'm paying for 1Password Family Subscription, I was experimenting with ways to run it locally. It wasn't obvious but I got it into stand-alone mode  accidentally after restoring from backup.
 
 It's easy with 1Password 6.
 
@@ -19,7 +18,7 @@ It's easy with 1Password 6.
 2. Disable iCloud sync.
 3. Create a local vault and use it.
 
-With 1Password 7 subscription model you can download the app for free but in order to use it, you have to sign-in into your 1Password account. After that, you can create a vault outside of your cloud managed account but you'l still have a local copy of all of your 1Password account items. You can hide cloud valuts, but there's no obvious way to sign-out and stop 1Password 7 from fetching your data from the cloud.
+With 1Password 7 subscription model you can download the app for free but in order to use it, you have to sign-in into your 1Password account. After that, you can create a vault outside of your cloud managed account but you'l still have a local copy of all of your 1Password account items. You can hide cloud vaults, but there's no obvious way to sign-out and stop 1Password 7 from fetching your data from the cloud.
 
 ### How to run 1Password 7 in local mode.
 
