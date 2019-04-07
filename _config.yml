@@ -17,5 +17,3 @@ twitter_username: borisyurkeivich
 github_username:  borisyurkeivich
 markdown: kramdown
 gems: [jekyll-paginate]
-
-theme: jekyll-theme-cayman
