@@ -141,14 +141,14 @@ acronym, abbr {
 
 /*** Structure ***/
 #page {
-	width: 500px;
+	width: 425px;
 	margin: 0 auto;
 	position: relative;
 }
 
 #header {
 	width: 500px;
-	margin: 60px auto 60px 230px;
+	margin: 59px 12px 69px 41px;
 }
 
 #header h1 a {
@@ -164,17 +164,10 @@ acronym, abbr {
 	margin-bottom: 64px;
 }
 
-#content {
-	width: 500px;
-	margin: 0 auto;
-}
-
 #sidebar {
 	position: absolute;
 	text-align: right;
 	width: 160px;
-	top: 0;
-	left: -240px;
 	font-size: medium;
 }
 

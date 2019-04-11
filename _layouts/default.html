@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <title>{{ page.title }}</title>
-  <meta name="description" content="Blog about software, technology and games. Trying to focus on things which is not told anywhere else. Also posting photos which I used to post to Instagram.">
-  <meta name="viewport" content="width=device-width">
+  <meta name="description" content="Blog about software, technology and games. Trying to focus on things which is not told anywhere else.">
+  <meta name="viewport" content="width=500, minimum-scale=0.455">
   <link href="/style/style.css" rel="stylesheet" />
   <link href="/style/colors-light.css" rel="stylesheet" />
 </head>
@@ -14,23 +14,20 @@
 	  <header id="header">
 		<h1><a href="/">{{ site.name }}</a></h1>
 	  </header>
+	  
+	  <nav id="sidebar">
+		<p>By Boris Yurkevich</p>
+		<ul>
+		  <li><a href="/about">About</a></li>
+		  <li><a href="/feed.xml">RSS Feed</a></li>
+		  <li><a href="/apps">Apps</a></li>
+		  <li><a href="/archives">Archive</a></li>
+		  <li><a href="https://twitter.com/borisyurkevich">Twitter</a></li>
+		</ul>
+	  </nav>
 
 	  <div id="page">
-		  <nav id="sidebar">
-   		    <p>By Boris Yurkevich</p>
-			<ul>
-			  <li><a href="/about">About</a></li>
-			  <li><a href="/feed.xml">RSS Feed</a></li>
-			  <li><a href="/apps">Apps</a></li>
-			  <li><a href="/archives">Archive</a></li>
-			  <li><a href="https://twitter.com/borisyurkevich">Twitter</a></li>
-			</ul>
-		  </nav>
-
-		<div id="content">
 		  {{ content }}
-		</div>
-	
 	  </div>
 
 	  <footer id="footer">
