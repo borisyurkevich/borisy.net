@@ -51,13 +51,13 @@ h1 {
 }
 h2 {
 	font: -apple-system-subheadline;
-	font-size: larger;
+	font-size: large;
 	font-weight: bold;
 	padding-bottom: 16px;
 }
 h3 {
 	font: -apple-system-subheadline;
-	font-size: large;
+	font-size: medium;
 	font-weight: bold;
 }
 body {
