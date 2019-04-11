@@ -141,13 +141,13 @@ acronym, abbr {
 
 /*** Structure ***/
 #page {
-	width: 425px;
-	margin: 0 0 0 200px;
+	width: 424px;
+	margin: 0 0 0 222px;
 }
 
 #header {
 	width: 500px;
-	margin: 56px 0 56px 8px;
+	margin: 56px 0 56px 26px;
 }
 
 #header h1 a {
