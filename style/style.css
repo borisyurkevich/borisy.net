@@ -142,13 +142,12 @@ acronym, abbr {
 /*** Structure ***/
 #page {
 	width: 425px;
-	margin: 0 auto;
-	position: relative;
+	margin: 0 0 0 200px;
 }
 
 #header {
 	width: 500px;
-	margin: 59px 12px 69px 41px;
+	margin: 56px 0 56px 8px;
 }
 
 #header h1 a {
@@ -224,34 +223,4 @@ article .meta {
 
 .postnavigation .right {
 	float: right;
-}
-
-/*** Media Queries ***/
-@media all and (max-width: 870px) {
-
-	#header {
-		width: inherit;
-		padding-left: 20px;
-		padding-right: 10px;
-	}
-
-	#page, #content, #footer {
-		width: inherit;
-		padding-left: 10px;
-		padding-right: 10px;
-	}
-
-	#sidebar {
-		position: relative;
-		text-align: left;
-		width: 100%;
-		left: 0;
-		margin: 24px 10px 24px 10px;
-	}
-
-	#sidebar nav select.mnav {
-		display: block;
-		margin-bottom: 15px;
-	}
-
 }
