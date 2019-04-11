@@ -9,33 +9,34 @@
   <link href="/style/colors-light.css" rel="stylesheet" />
 </head>
 <body>
-  
-  <header id="header">
-    <h1><a href="/">{{ site.name }}</a></h1>
-    <p>{{ site.description }}</p>
-  </header>
 
-  <div id="page">
-    
-      <nav id="sidebar">
-        <ul>
-		  <li><a href="/about">About</a></li>
-          <li><a href="/apps">Apps</a></li>
-          <li><a href="/archives">Archive</a></li>
-          <li><a href="/feed.xml">RSS Feed</a></li>
-    	  <li><a href="https://twitter.com/borisyurkevich">Twitter</a></li>
-        </ul>
-      </nav>
+  <div id="box">
+	  <header id="header">
+		<h1><a href="/">{{ site.name }}</a></h1>
+	  </header>
 
-    <div id="content">
-      {{ content }}
-    </div>
-    
+	  <div id="page">
+		 <p>By Boris Yurkevich</p>
+		  <nav id="sidebar">
+			<ul>
+			  <li><a href="/about">About</a></li>
+			  <li><a href="/feed.xml">RSS Feed</a></li>
+			  <li><a href="/apps">Apps</a></li>
+			  <li><a href="/archives">Archive</a></li>
+			  <li><a href="https://twitter.com/borisyurkevich">Twitter</a></li>
+			</ul>
+		  </nav>
+
+		<div id="content">
+		  {{ content }}
+		</div>
+	
+	  </div>
+
+	  <footer id="footer">
+		<p class="copyright">Copyright &copy; {{ site.time | date: '%Y' }} {{ site.name }}.</p>
+	  </footer>
   </div>
-
-  <footer id="footer">
-    <p class="copyright">Copyright &copy; {{ site.time | date: '%Y' }} {{ site.name }}.</p>
-  </footer>
-
+  
 </body>
 </html>

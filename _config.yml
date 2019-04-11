@@ -7,10 +7,10 @@
 name: 'Cocoa Switch'
 url: cocoaswitch.com
 permalink: /:year/:month/:day/:title/
-paginate: 10
+paginate: 12
 title: Cocoa Switch
 email: boris@cocoaswitch.com
-description: 'By Boris Yurkevich.'
+description: 'Blog about software, technology and games.'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://cocoaswitch.com" # the base hostname & protocol for your site
 twitter_username: borisyurkeivich
