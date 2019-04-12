@@ -36,27 +36,24 @@ table {
 	text-align: left;
 }
 
+body {
+	font-family: Helvetica;
+	font-size: small;
+	line-height: 1.5;
+}
 h1 {
-	font-family: -apple-system-headline;
 	font-size: xx-large;
 	margin-top: 32px;
 	font-weight: bold;
 }
 h2 {
-	font-family: -apple-system-subheadline;
 	font-size: large;
 	font-weight: bold;
 	padding-bottom: 16px;
 }
 h3 {
-	font-family: -apple-system-body;
 	font-size: small;
 	font-weight: bold;
-}
-body {
-	font-family: -apple-system-body, Helvetica;
-	font-size: small;
-	line-height: 1.5;
 }
 
 a, a:active, a:visited {
@@ -154,7 +151,7 @@ acronym, abbr {
 	width: 500px;
 	margin: 120px auto 20px auto;
 	padding-top: 10px;
-	font-family: -apple-system-footnote;
+	font-size: smaller;
 	border-top: 1px solid #073642;
 	margin-bottom: 64px;
 }
