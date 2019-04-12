@@ -14,12 +14,6 @@ Not writing regularly and not covering news because there's writers who can do i
 
 I'am iOS programmer from London. I have wife and 2 kids.
 
-### Contact Me.
-
-You're welcome to write. I read every email I get but can't promise response.
-
-[boris@cocoaswitch.com][12]
-
 ### Why "Cocoa Switch."
 
 The name inspired by Apple Cocoa and Cocoa Touch frameworks, my addiction to chocolate, *switching* from PC to Mac and new Nintendo console.
@@ -42,4 +36,3 @@ This website has no JavaScript. [Source (GitHub).][11]
 [9]:	http://marcpalmer.net
 [10]:	https://jekyllrb.com
 [11]:	https://github.com/borisyurkevich/borisyurkevich.github.io
-[12]:	mailto:boris@cocoaswitch.com
