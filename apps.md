@@ -22,6 +22,8 @@ system Status Bar.
 * Add custom text
 * Edit screenshots from different devices, including, Apple Watch.
 
+<br>
+
 ### Caffeine++
 
 <a href="https://itunes.apple.com/gb/app/caffeine-caffeine-tracker/id983386737" style="display:inline-block;overflow:hidden;background:url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;" class="app-link"></a>
@@ -37,6 +39,8 @@ Log your caffeine and water consumption with one tap.
 * Small app size.
 * Excellent privacy. Caffeine++ doesn't track, collect, or save any of your data.
 
+<br>
+
 ### TrimNumber
 
 <a href="https://itunes.apple.com/gb/app/trimnumber/id891432865" style="display:inline-block;overflow:hidden;background:url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;" class="app-link"></a>
@@ -49,3 +53,4 @@ number validation.
 * Copy and paste with one tap
 * Remembers your input
 
+<br>
