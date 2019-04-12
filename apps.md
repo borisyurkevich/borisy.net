@@ -23,8 +23,6 @@ Log your caffeine and water consumption with one tap.
 
 ### TrimNumber <a href="https://itunes.apple.com/gb/app/trimnumber/id891432865" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-sm.svg) no-repeat;width:60px;height:15px;background-size:contain;" class="app-link"></a>
 
-Simple utility to edit a number and removing extra characters. It
-suppose to help fill phone numbers you workaround web forms with strict
-number validation.
+Simple utility to edit a phone number and remove extra characters.
 
 <br>
