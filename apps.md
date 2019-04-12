@@ -10,7 +10,7 @@ I'm iOS programmer and I make my own apps in spare time.
 
 ### Altershot
 
-<a href="https://itunes.apple.com/gb/app/altershot/id911930618" style="display:inline-block;overflow:hidden;background:url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;"></a>
+<a href="https://itunes.apple.com/gb/app/altershot/id911930618" style="display:inline-block;overflow:hidden;background:url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;" class="app-link"></a>
 
 Special image editor for iOS screenshots. It changes appearance of the
 system Status Bar.
@@ -24,7 +24,7 @@ system Status Bar.
 
 ### Caffeine++
 
-<a href="https://itunes.apple.com/gb/app/caffeine-caffeine-tracker/id983386737" style="display:inline-block;overflow:hidden;background:url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;"></a>
+<a href="https://itunes.apple.com/gb/app/caffeine-caffeine-tracker/id983386737" style="display:inline-block;overflow:hidden;background:url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;" class="app-link"></a>
 
 Log your caffeine and water consumption with one tap.
 
@@ -39,7 +39,7 @@ Log your caffeine and water consumption with one tap.
 
 ### TrimNumber
 
-<a href="https://itunes.apple.com/gb/app/trimnumber/id891432865" style="display:inline-block;overflow:hidden;background:url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;"></a>
+<a href="https://itunes.apple.com/gb/app/trimnumber/id891432865" style="display:inline-block;overflow:hidden;background:url(http://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;" class="app-link"></a>
 
 Simple utility to edit a number and removing extra characters. It
 suppose to help fill phone numbers you workaround web forms with strict

@@ -77,6 +77,10 @@ a:hover {
 	color: #000000;
 }
 
+.app-link {
+	border: none;
+}
+
 p, pre { 
     margin-bottom: 15px; 
 }
@@ -114,10 +118,10 @@ code {
 }
 
 blockquote {
+    font-size: small;
     margin: 22px 22px;
     padding: 0 20px;
     border-left: 2px solid #000000;
-    font-size: 1.2em;
     font-style: italic;
     line-height: 1.5em;
 }
@@ -156,7 +160,7 @@ acronym, abbr {
 
 #footer {
 	width: 500px;
-	margin: 50px auto 20px auto;
+	margin: 120px auto 20px auto;
 	padding-top: 10px;
 	font: -apple-system-footnote;
 	border-top: 1px solid #073642;
