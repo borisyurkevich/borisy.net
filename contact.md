@@ -8,4 +8,4 @@ permalink: /contact/
 
 Please address your comments to:
 
-[boris@cocoaswitch.com](mailto:boris@cocoaswitch.com)
+[boris@cocoaswitch.com](mailto:boris@cocoaswitch.com?subject=Cocoa Switch Comment)
