@@ -42,13 +42,6 @@ h1 {
 	font-weight: bold;
 	margin-top: 32px;
 }
-
-.lead {
-	font: -apple-system-subheadline;
-	font-size: x-larger;
-	margin: 0 0 10px 0;
-	font-weight: bold;
-}
 h2 {
 	font: -apple-system-subheadline;
 	font-size: large;
@@ -56,7 +49,7 @@ h2 {
 	padding-bottom: 16px;
 }
 h3 {
-	font: -apple-system-subheadline;
+	font: -apple-system;
 	font-size: small;
 	font-weight: bold;
 }
