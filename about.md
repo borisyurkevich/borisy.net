@@ -1,52 +1,35 @@
 ---
 layout: default
-title: About
+title: About This Blog
 permalink: /about/
 ---
 
-# About.
+## About This Blog.
 
-Welcome to Cocoa Switch, blog about software, technology and games. Trying to focus on things which is not told anywhere else. Also posting photos which I used to post to Instagram.
-
-I am software engineer living in London with my wife and son.
+Welcome to Cocoa Switch, blog about software, technology and games. Focussing on things which is not told anywhere else.
 
 Although I am posting links here, I don't want this to be a link blog and when posting a link, there's something I would like to add.
 
 Not writing regularly and not covering news because there's writers who can do it much better.
 
-## You Also May Like.
+I'am iOS programmer from London. I have wife and 2 kids.
 
-This people inspiring me to write.
+### Contact Me.
 
-* [Jhonn Gruber of Daring Fireball][1]
-* [Marco Armnet][2]
-* [Federico Viticci of MacStories][3]
-* [Jason Snell of Six Colors][4]
-* [512 Pixels][5]
-* [Natasha The Robot][6]
-* [little bites of cocoa][7]
-* [Cocoa with love][8]
-* [Marc Palmer][9]
-
-The list will be updated as I discover more independent technology publishers with interesting opinions.
-
-## Why "Cocoa Switch."
-
-The name inspired by Apple Cocoa and Cocoa Touch frameworks, my love to chocolate, *switching* from PC to Mac in 2007 and new Nintendo console.
-
-## How This Works.
-
-I am proud that this website has zero JavaScript, which means good efficiency and no tracking.
-  
-Thanks to GitHub for hosting this static blog for free. [It runs on Jekyll.][10] 
-  
-[Source code available on GitHub.][11]
-
-## Contact Me.
+You're welcome to write. I read every email I get but can't promise response.
 
 [boris@cocoaswitch.com][12]
 
-You're welcome to write. I read every email I get but can't promise response.
+### Why "Cocoa Switch."
+
+The name inspired by Apple Cocoa and Cocoa Touch frameworks, my addiction to chocolate, *switching* from PC to Mac and new Nintendo console.
+
+### How This Works.
+  
+Thanks to GitHub for hosting this static blog for free. [It runs on Jekyll.][10] 
+
+This website has no JavaScript. [Source (GitHub).][11]
+
 
 [1]:	https://daringfireball.net/
 [2]:	https://marco.org
