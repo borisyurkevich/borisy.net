@@ -37,26 +37,25 @@ table {
 }
 
 h1 {
-	font: -apple-system-headline;
+	font-family: -apple-system-headline;
 	font-size: xx-large;
-	font-weight: bold;
 	margin-top: 32px;
+	font-weight: bold;
 }
 h2 {
-	font: -apple-system-subheadline;
+	font-family: -apple-system-subheadline;
 	font-size: large;
 	font-weight: bold;
 	padding-bottom: 16px;
 }
 h3 {
-	font: -apple-system;
+	font-family: -apple-system-body;
 	font-size: small;
 	font-weight: bold;
 }
 body {
-    font-family: -apple-system, Helvetica;
+	font-family: -apple-system-body, Helvetica;
 	font-size: small;
-	font: -apple-system-body;
 	line-height: 1.5;
 }
 
@@ -155,7 +154,7 @@ acronym, abbr {
 	width: 500px;
 	margin: 120px auto 20px auto;
 	padding-top: 10px;
-	font: -apple-system-footnote;
+	font-family: -apple-system-footnote;
 	border-top: 1px solid #073642;
 	margin-bottom: 64px;
 }
