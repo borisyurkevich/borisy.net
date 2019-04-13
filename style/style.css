@@ -54,6 +54,7 @@ h2 {
 h3 {
 	font-size: small;
 	font-weight: bold;
+	padding-bottom: 14px;
 }
 
 a, a:active, a:visited {
