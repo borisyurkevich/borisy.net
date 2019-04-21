@@ -5,7 +5,7 @@ date:  2019-04-21T10:28+0000
 external-url: http://dscoder.com/defaults.html
 ---
 
-My favourite `UserDefaults`[^2] use-case is preserving user state, one of essential items on the list of every *good* Mac or iOS application.
+My favourite `UserDefaults`[^2] use-case is preserving User Interface states, one of essential items on the list of every *good* Mac or iOS application.
 
 `UserDefaults` is one of most powerful examples why I love writing programms for Apple hardware. It is easy to get started, performant, and got even simpler[^3] over time. Just two-three lines of code and you wrote something to permanent storage. Which you can read at any time, so efficient, adding your own caching code would even hurt performance[^1].
 
