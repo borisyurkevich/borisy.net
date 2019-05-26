@@ -23,8 +23,6 @@ table {
 	border-spacing: 0;
 }
 
-
-
 /*** Basics ***/
 
 #box {
@@ -149,12 +147,9 @@ acronym, abbr {
 }
 
 #footer {
-	width: 500px;
-	margin: 120px auto 20px auto;
-	padding-top: 10px;
-	font-size: smaller;
-	border-top: 1px solid #073642;
-	margin-bottom: 64px;
+	display: block;
+	margin-top: 16em;
+	padding-bottom: 1em;
 }
 
 #sidebar {

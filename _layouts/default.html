@@ -28,12 +28,14 @@
 	  </nav>
 
 	  <div id="page">
+		  
 		  {{ content }}
+		  
+		  <footer id="footer">
+			<p class="copyright">Copyright &copy; {{ site.time | date: '2016–%Y' }} {{ site.name }}.</p>
+		  </footer>
 	  </div>
 
-	  <footer id="footer">
-		<p class="copyright">Copyright &copy; {{ site.time | date: '2016–%Y' }} {{ site.name }}.</p>
-	  </footer>
   </div>
   
 </body>
