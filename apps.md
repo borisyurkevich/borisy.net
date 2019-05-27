@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Apps
 permalink: /apps/
 ---
 
@@ -8,6 +8,7 @@ permalink: /apps/
 
 I'm iOS programmer and I make my own apps in spare time.
   
+<br>
 
 ### Altershot
 
