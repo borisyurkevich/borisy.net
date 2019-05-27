@@ -182,10 +182,8 @@ article h1 a.anchor {
 }
 
 .date-subtitle {
-	font-size: 1em;
-	color: #aaa;
-	margin-top: -.75em;
-	margin-bottom: 1.5em;
+	color: grey;
+	margin-bottom: 9px;
 	font-weight: normal;
 }
 
