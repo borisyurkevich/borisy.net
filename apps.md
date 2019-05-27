@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Apps
+title: iOS Apps
 permalink: /apps/
 ---
 
