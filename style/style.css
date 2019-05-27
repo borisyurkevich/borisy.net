@@ -25,6 +25,14 @@ table {
 
 /*** Basics ***/
 
+body {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: small;
+	line-height: 1.5;
+	min-width: 640px;
+	height: 100%;
+}
+
 #box {
 	border: 0;
 	width: 720px;
@@ -34,12 +42,6 @@ table {
 	text-align: left;
 }
 
-body {
-	font-family: Helvetica, Arial, sans-serif;
-	font-size: small;
-	line-height: 1.5;
-	min-width: 640px;
-}
 h1 {
 	font-size: xx-large;
 	margin-top: 32px;
@@ -139,8 +141,8 @@ acronym, abbr {
 }
 
 #header {
-	width: 500px;
-	margin: 56px 0 56px 46px;
+	width: 218px;
+	padding: 56px 0 56px 46px;
 }
 
 #header h1 a {
