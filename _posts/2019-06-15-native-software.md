@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why I Value Native Software."
-date:  2019-05-27T8:09+0000
+date:  2019-06-15T9:00+0000
 ---
 
 When the original iPhone OS was introduced, many people loved it, and many developers wanted to be on the platform. iPhone OS 1 had break through Safari browser and Steve Jobs implied that third party developers could use power of WebKit to build and distribute their applications. However they were never "first class" applications. Apple didn't use HTML, CSS and JavaScript for their own apps.
