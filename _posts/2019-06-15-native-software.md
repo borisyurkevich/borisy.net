@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why I Value Native Software."
+title:  "Why I value native software"
 date:  2019-06-15T9:00+0000
 ---
 
