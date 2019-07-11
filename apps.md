@@ -12,8 +12,8 @@ I'm iOS programmer and I make my own apps in spare time.
 
 ### Altershot
 
-Special image editor for iOS screenshots. It changes appearance of the
-system Status Bar.
+Altershot is the marketing image editor for your screenshots. It simplifies
+Status Bar appearance to focus viewer attention on your app.
 
 <a href="https://itunes.apple.com/gb/app/altershot/id911930618" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-sm.svg) no-repeat;width:60px;height:15px;background-size:contain;" class="app-link"></a>
 
