@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "iOS advantages"
+title: "iOS advantage"
 date: 2019-07-11T8:21+0000
 ---
 
@@ -12,4 +12,4 @@ Another time, much later, I happened to be a witness when someone wanted to save
 
 iOS has some advantages over macOS. Both Mac and iPhone have a progressive disclosure of complexity which helps novice users get started, and also allows power users stay productive. However, entry barrier on iPhone is much lower. You can do everything on iPhone with a simple tap and swipe. It will take longer yes, but you don't need to know about double tap, tap and hold, tap-hold and drag. That's a great thing.
 
-iPad works in the same way. Basic requirements, things you need to know to use it, are very low. It's forgiving for a novice user. People can pick it up and do more without any help from their nerd friends. iOS and iPadOS have fundamental advantages over Mac.
+iPad works in the same way. Basic requirements, things you need to know to use it, are very low. It's forgiving for a novice user. People can pick it up and do more without any help from their nerd friends. iOS and iPadOS have fundamental advantage over Mac.
