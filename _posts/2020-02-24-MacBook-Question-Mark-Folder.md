@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MacBook Pro unable to locate SSD."
+title: "MacBook Pro unable to locate SSD"
 date: 2020-02-24T0:56:49+0000
 ---
 
