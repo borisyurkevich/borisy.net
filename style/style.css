@@ -223,3 +223,28 @@ article .meta {
 .postnavigation .right {
 	float: right;
 }
+
+/*** Tables ***/
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+	margin-bottom: 16px;
+	background-color: white;
+}
+
+table td, th {
+  	border: 1px solid #ddd;
+	padding: 8px;
+}
+
+table tr:nth-child(even) { 
+	background-color: #f2f2f2; 
+}
+
+table th {
+	text-align: left;
+	color: white;
+	background-color: #cb4b16;
+}
+
