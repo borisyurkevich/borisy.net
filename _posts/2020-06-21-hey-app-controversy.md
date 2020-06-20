@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hey app Controversy"
+title: "Hey app controversy"
 date: 2020-06-21T0:7:47+0100
 ---
 
