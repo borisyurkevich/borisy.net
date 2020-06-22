@@ -4,7 +4,7 @@ title: "Should Apple allow iOS apps outside the App Store?"
 date: 2020-06-22T12:40:54+0100
 ---
 
-Yesterday Brent Simmons wrote [The App Store Doesn’t Make Apps Safe](https://inessential.com/2020/06/21/the_app_store_doesnt_make_apps_safe). Brent is very well-known and talented Mac and iOS developer, author of excellent RSS reader [NetNewsWire](https://ranchero.com/netnewswire/). I agree with his argument, Apple could allow iOS users to download apps from the web without compromising security. However, security is not the only one concern.
+Yesterday Brent Simmons wrote [The App Store Doesn’t Make Apps Safe](https://inessential.com/2020/06/21/the_app_store_doesnt_make_apps_safe). Brent is very well-known and talented Mac and iOS developer, author of excellent RSS reader [NetNewsWire](https://ranchero.com/netnewswire/). I agree with his argument, Apple could allow iOS users to download apps from the web without compromising security. However, security is not the only concern here.
 
 Update management is the biggest concern for me. I love how the App Store manages updates in a single place. Apps generally do not nag you to update, you can see all release notes and update quickly. You can manage auto-updating with a single switch. There's other pro-App Store arguments like, [App Thinning](https://developer.apple.com/documentation/xcode/reducing_your_app_s_size/doing_advanced_optimization_to_further_reduce_your_app_s_size), license management, Restoring Purchased Products, Family Sharing[^1], App Store reviews, and [lack of third-party payments](https://cocoaswitch.com/2020/06/20/hey-app-controversy/).
 
