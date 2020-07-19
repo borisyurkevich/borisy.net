@@ -5,14 +5,13 @@
 # in the templates via {{ site.myvariable }}.
 
 name: 'Cocoa Switch'
-url: cocoaswitch.com
 permalink: /:year/:month/:day/:title/
 paginate: 12
 title: Cocoa Switch
 email: boris@cocoaswitch.com
-description: 'Blog about software, technology and games. Focussing on things which is not told anywhere else.'
+description: 'Blog about software, technology and video games. Focussing on things which are not told anywhere else.'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://cocoaswitch.com" # the base hostname & protocol for your site
+url: "https://cocoaswitch.com" # the base hostname & protocol for your site
 twitter_username: borisyurkeivich
 github_username:  borisyurkeivich
 markdown: kramdown
