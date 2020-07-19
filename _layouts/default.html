@@ -2,17 +2,18 @@
 <html lang="en-GB">
 <head>
   <meta charset="utf-8">
-  <title>{{ page.title }}</title>
-  <meta name="description" content="Blog about software, technology and games. Trying to focus on things which is not told anywhere else.">
+  <title>{{ site.title }}</title>
+  <meta name="description" content={{ site.description }}>
   <link href="/style/style.css" rel="stylesheet" />
   <link href="/style/colors-light.css" rel="stylesheet" />
+  <link rel="icon" type="image/png" href="/favicon.png"/>
   <meta name="viewport" content="width=720">
 </head>
 <body>
 
   <div id="box">
 	  <header id="header">
-		<h1><a href="/">{{ site.name }}</a></h1>
+		<h1><a href="/">{{ site.title }}</a></h1>
 	  </header>
 	  
 	  <nav id="sidebar">
@@ -32,7 +33,7 @@
 		  {{ content }}
 		  
 		  <footer id="footer">
-			<p class="copyright">Copyright &copy; {{ site.time | date: '2016–%Y' }} {{ site.name }}.</p>
+			<p class="copyright">Copyright &copy; {{ site.time | date: '2016–%Y' }} {{ site.title }}.</p>
 		  </footer>
 	  </div>
 

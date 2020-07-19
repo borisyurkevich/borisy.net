@@ -6,14 +6,13 @@ permalink: /apps/
 
 ## iOS Apps
 
-I'm iOS programmer and I make my own apps in spare time.
+I'm iOS developer and I make apps when I have time.
   
 <br>
 
 ### Altershot
 
-Altershot is the marketing image editor for your screenshots. It simplifies
-Status Bar appearance to focus viewer attention on your app.
+Altershot is the marketing tool for your screenshots. It simplifies Status Bar appearance to focus viewer attention on your app.
 
 <a href="https://itunes.apple.com/gb/app/altershot/id911930618" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-sm.svg) no-repeat;width:60px;height:15px;background-size:contain;" class="app-link"></a>
 
