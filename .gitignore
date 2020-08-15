@@ -3,3 +3,7 @@ _site
 .jekyll-metadata
 _posts/.Ulysses-favorites.plist
 _posts/.Ulysses-Group.plist
+.DS_Store
+_posts/.DS_Store
+downloads/.DS_Store
+images/.DS_Store
