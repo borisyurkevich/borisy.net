@@ -20,6 +20,6 @@ _Running iOS 13.7, UK App Store. I don't see this on the Mac._
 
 ### Update, October 8
 
-I was billed for my iCloud Storage and the payment went through my card as usual. When I tried to remove this card from Apple ID payment settings, iOS told me I have to have at least one payment method available, despite that I have a second Apple Pay option configured in the list of payment methods. I am not sure is this because I am family organiser, but most likely you still have to have a card details entered into your Apple ID. Apple Pay won't won't be used for iCloud storage billing, and, possibly, subscriptions.
+I was billed for my iCloud Storage and the payment went through my card as usual. When I tried to remove this card from Apple ID payment settings, iOS told me I have to have at least one payment method available, despite that I have a second Apple Pay option configured in the list of payment methods. I am not sure is this because I am a family organiser, but, most likely, you still have to have a card details entered into your Apple ID. Apple Pay won't be used for iCloud storage billing, and, possibly, subscriptions.
 
 I have changed post tile from "App Store now Supports Apple Pay" to the new one and changed  "This brings new possibilities:" to "This could bring new possibilities:".
