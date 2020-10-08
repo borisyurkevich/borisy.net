@@ -6,7 +6,9 @@ date: 2020-10-06T7:50:36+0100
 
 I know it seams obvious, but for a long time you couldn't choose Apple Pay, Apple own payment system, when setting up your Apple ID. I needed to update my card yesterday and have noticed the new option. I am attaching the screenshot, have you noticed Apple Pay icon? It used to say "App Store". 
 
-This brings new possibilities:
+![App Store screenshot showing the Florence game confirm with Touch ID payment sheet, the price is £2.99]({{site.url}}/images/florence-apple-pay.jpeg)
+
+This could bring new possibilities:
 
 - User can provide payment details only once, configure default, and choose a different card for each purchase.
 - Hopefully, if your app supports In-App Purchase, your customers now can pay with Apple Pay. Before that, Apple Pay was only allowed for physical goods, and required complex setup. I think 30% cut remains, but it potentially can allow Apple to switch to a 0% cut and just have much smaller commission they get from banks when you use Apple Pay.
@@ -20,6 +22,4 @@ _Running iOS 13.7, UK App Store. I don't see this on the Mac._
 
 I was billed for my iCloud Storage and the payment went through my card as usual. When I tried to remove this card from Apple ID payment settings, iOS told me I have to have at least one payment method available, despite that I have a second Apple Pay option configured in the list of payment methods. I am not sure is this because I am family organiser, but most likely you still have to have a card details entered into your Apple ID. Apple Pay won't won't be used for iCloud storage billing, and, possibly, subscriptions.
 
-I have changed post tile from "App Store now Supports Apple Pay" to the new one and changed  "This brings new possibilities" to "This could bring new possibilities in the future".
-
-![App Store screenshot showing the Florence game confirm with Touch ID payment sheet, the price is £2.99]({{site.url}}/images/florence-apple-pay.jpeg)
+I have changed post tile from "App Store now Supports Apple Pay" to the new one and changed  "This brings new possibilities:" to "This could bring new possibilities:".
