@@ -26,9 +26,14 @@ Log your caffeine and water consumption with one tap.
 
 <br>
 
-### TrimNumber 
+### 123 Trim 
 
-Simple utility to edit a phone number and remove extra characters.
+Free non commercial utility to remove extra characters like a white spaces or dashes.
+
+- Add a number to the app for later use
+- Persistent state
+- [Privacy](https://cocoaswitch.com/123Trim#privacy) focused Contacts picker*
+- Action Extension to use in any app
 
 <a href="https://itunes.apple.com/gb/app/trimnumber/id891432865" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-sm.svg) no-repeat;width:60px;height:15px;background-size:contain;" class="app-link"></a>
 
