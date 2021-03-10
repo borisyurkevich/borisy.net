@@ -26,7 +26,7 @@ Log your caffeine and water consumption with one tap.
 
 <br>
 
-### 123 Trim 
+### [123 Trim]({{site.url}}/123Trim)
 
 <a href="https://itunes.apple.com/gb/app/trimnumber/id891432865" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-sm.svg) no-repeat;width:60px;height:15px;background-size:contain;" class="app-link"></a>
 
