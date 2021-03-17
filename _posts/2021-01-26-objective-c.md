@@ -11,4 +11,4 @@ I have published my first app during summer of 2014. Although the app itself is 
 
 
 [1]: https://www.legacy.com/us/obituaries/scnow/name/brad-cox-obituary?pid=197454225
-[2]: https://apps.apple.com/us/app/trimnumber/id891432865
+[2]: {{site.url}}/123Trim
