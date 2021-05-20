@@ -1,78 +1,8 @@
-<!DOCTYPE html>
-<html lang="en"> 
-<head> 
-	<title>Caffeine++</title>
-	<meta charset="utf-8">
-	<meta name="Author" content="Boris Yurkevich">
-	<meta name="Description" content="iPhone app">
-	<meta name="viewport" content="width=device-width">
-	<meta name="apple-itunes-app" content="app-id=983386737, affiliate-data=myAffiliateData, app-argument=myURL">
-	<meta property="og:image" content="https://static.tumblr.com/igit2jh/ZuLnqpnls/promo_caffeine.jpg" />
-	<meta property="og:image:width" content="495" />
-	<meta property="og:image:height" content="730" />
-	<style>
-		h1, h2, h3, a {
-			color: #A67B5B;
-		}
-		h1 {
-			font: -apple-system-headline;
-			font-size: 32px;
-			font-weight: bold;
-			margin: 32px 20px 8px 20px;
-		}
-		.lead {
-			font: -apple-system-subheadline;
-			font-size: 24px;
-			margin: 0 0 10px 0;
-			font-weight: bold;
-		}
-		h2 {
-			font: -apple-system-subheadline;
-			font-size: 24px;
-			font-weight: bold;
-		}
-		h3 {
-			font: -apple-system-subheadline;
-			font-size: 18px;
-			font-weight: bold;
-		}
-		body {
-			font-family: -apple-system, Helvetica;
-			font: -apple-system-body;
-			display: block;
-			width: inherit;
-			max-width: 500px;
-			margin-left: auto;
-			margin-right: auto;
-			line-height: 1.5;
-		}
-		.app-store-btn {
-			display: block;
-			margin-top: 2rem;
-			margin-bottom: 2rem;
-		}
-		img {
-			display: block;
-	    	margin-left: auto;
-	    	margin-right: auto;
-			width: 100%;
-			max-width: 495px;
-		}
-		.content {
-			margin-left: 20px;
-			margin-right: 20px;
-			margin-bottom: 64px;
-		}
-	</style>
-	
-</head> 
-<body>
+## Caffeine++
 
-<h1>Caffeine++</h1>
-<div class="content">
-<p class="lead">Information is Power.</p>
+**Information is Power.**
 
-<img id="iPhone" class="img-responsive" src="/images/promo-caffeine.jpg" 
+<img id="iPhone" src="/images/promo-caffeine.jpg" 
 	 srcset="/images/promo-caffeine-2x.jpg 2x" alt="White iPhone with Caffeine++ app">
 </img>
 				
@@ -104,12 +34,12 @@
 
 <p>Icons: <a href="http://icons8.com">Icons8</a></p>
 
-<h2 id="support">Contact</h2>
+<h3 id="support">Contact</h3>
 <p>Email <a href="mailto:boris@cocoaswitch.com">boris@cocoaswitch.com</a></p>
 
 <a href="https://twitter.com/caffeinepp">Follow @caffeinepp</a>    
 
-<h2 id="policy">Privacy Policy</h2>
+<h3 id="policy">Privacy Policy</h3>
 <p>
 Caffeine++ requires Apple Health access for 
 storing data and displaying daily summary. 
@@ -132,6 +62,3 @@ support email to us within the app.
 <p>
 Last Updated: June 24, 2018
 </p>
-</div>
-</body> 
-</html>
