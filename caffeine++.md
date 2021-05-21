@@ -1,10 +1,7 @@
 ## Caffeine++
-
 **Information is Power.**
 
-<img id="iPhone" src="/images/promo-caffeine.jpg" 
-	 srcset="/images/promo-caffeine-2x.jpg 2x" alt="White iPhone with Caffeine++ app">
-</img>
+<img src="/images/promo-caffeine.jpg" srcset="/images/promo-caffeine_2x.jpg 2x" alt="White iPhone with Caffeine++ app"></img>
 				
 <p>
 	Track your caffeine and water consumption to gain more personal data.
