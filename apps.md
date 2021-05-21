@@ -10,7 +10,7 @@ I'm iOS developer and I make apps when I have time.
   
 <br>
 
-### Altershot
+### [Altershot]({{site.url}}/altershot)
 
 <a href="https://itunes.apple.com/gb/app/altershot/id911930618" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-sm.svg) no-repeat;width:60px;height:15px;background-size:contain;" class="app-link"></a>
 
@@ -18,7 +18,7 @@ Altershot is the marketing tool for your screenshots. It simplifies Status Bar a
 
 <br>
 
-### Caffeine++
+### [Caffeine++]({{site.url}}/caffeine++)
 
 <a href="https://itunes.apple.com/gb/app/caffeine-caffeine-tracker/id983386737" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-sm.svg) no-repeat;width:60px;height:15px;background-size:contain;" class="app-link"></a>
 
