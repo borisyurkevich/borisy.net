@@ -1,7 +1,7 @@
 ## Caffeine++
-**Information is Power.**
+**Caffeine Tracker.**
 
-<img src="/images/promo-caffeine.jpg" srcset="/images/promo-caffeine_2x.jpg 2x" alt="White iPhone with Caffeine++ app"></img>
+<img src="/images/caffeine++-original.png" srcset="/images/caffeine++-original_2x.png 2x" alt="app screenshot with text 1 drink (99 mg) today 150 ml water with a button to add new copy under" style="width: 375px; height: 208px;">
 				
 <p>
 	Track your caffeine and water consumption to gain more personal data.
@@ -14,13 +14,13 @@
 
 <ul>
 	<li>Contribute data to Apple Health</li>
-	<li>Add any amount of your favorite presets for quick logging</li>
+	<li>Add any amount of your favourite presets for quick logging</li>
 	<li>Rearrange with drag and drop.</li>
 	<li>Use Apple Watch</li>
 	<li>Add your own drinks</li>
-	<li>Customize entry date</li>
+	<li>Customise entry date</li>
 	<li>Water tracking</li>
-	<li>Supports milliliters, fluid ounces and imperial fluid ounces</li>
+	<li>Supports millilitres, fluid ounces and imperial fluid ounces</li>
 </ul>
 
 <p>

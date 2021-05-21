@@ -1,7 +1,7 @@
 ## Altershot
-**For Cleaner Screenshots.**
+**Professional Screenshot Tool.**
 
-<img src="/images/altershot_promo.png" srcset="/images/altershot_promo_2x.png 2x" alt="Black iPhone 6 with Altershot app"></img>
+<img src="/images/altershot-bar.png" srcset="/images/altershot-bar_2x.png 2x" alt="status bar with time 9:41 and full battery" style="width: 375px; height:108px;">
 
 <p>
 	Attention to detail matters. Altershot is screenshot editor 
