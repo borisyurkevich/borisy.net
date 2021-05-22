@@ -10,7 +10,7 @@ permalink: /about/
 
 My name is Boris Yurkevich. I am a developer.
 
-Cocoa Switch is a blog to give you insight into my though process, projects I am working on and opinions about wonderful world of technology.
+Cocoa Switch is a blog to give you insight into my though process, projects I am working on and opinions about wonderful world of tech. I hope I can give back to the internet and share valuable information to help others with research and decision making.
 
 I work as iOS developer at my day job. I spend free time crafting my own apps. I have published [Caffeine++,](https://cocoaswitch.com/caffeine++) [Altershot](https://cocoaswitch.com/altershot) and [123 Trim](https://cocoaswitch.com/123Trim) through the App Store.  In the late 2020 I decided to get serious about independent publishing. I am starting new indie software [business](https://cocoaproduction.com) and I can't wait to share my  creations with you.
 
