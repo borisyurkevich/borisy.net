@@ -10,7 +10,7 @@ We also have received new Siri Remote last Friday to use with my existing Apple 
 - A bit heavier and larger body, easier to grip
 - A bit sharp but not as sharp as the previous aluminium design
 - Siri button is on a side, helps in the dark
-- I needed to look at the surface glyphs to find pause button, this should get better with training because the back button has different surface shape, so you can find it and than go one row below, no need to look
+- I needed to look at the surface glyphs to find pause button, this should get better with training because the back button has different surface shape, so you can find it and then go one row below, no need to look
 - There's lightning cable in the box
 - Using the power button to turn off TV is great, and apparently there's protection from accidental input as tvOS instructed me to hold it and only then the TV went off
 

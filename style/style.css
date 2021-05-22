@@ -255,6 +255,21 @@ table th {
 	background-color: #cb4b16;
 }
 
+/*** Apps ***/
+
+.appName {
+	padding-bottom: 0px;
+}
+
+.hero {
+	font-size: x-large;
+	font-weight: normal;
+}
+
+.badge {
+	border: none;
+}
+
 /*** About ***/
 
 #shot {

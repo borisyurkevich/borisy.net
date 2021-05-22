@@ -1,5 +1,5 @@
-## Altershot
-**Professional Screenshot Tool.**
+<h2 class="appName">Altershot</h2>
+<p class="hero">Professional Screenshot Tool</p>
 
 <img src="/images/altershot-bar.png" srcset="/images/altershot-bar_2x.png 2x" alt="status bar with time 9:41 and full battery" style="width: 375px; height:108px;">
 
@@ -21,7 +21,7 @@
 	But you can always cut status bar out from any screenshot.
 </p>
 
-<a href="https://geo.itunes.apple.com/us/app/altershot-screenshot-editor/id911930618?mt=8&at=1010l4GJ" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;"></a>
+<a href="https://geo.itunes.apple.com/us/app/altershot-screenshot-editor/id911930618?mt=8&at=1010l4GJ" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;" class="badge"></a>
 
 <h3 id="support">Contact</h3>
 
