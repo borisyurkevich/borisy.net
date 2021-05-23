@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "Gruber's Review for the Siri Remote"
+title: "Siri Remote, Gruber's Review"
 date: 2019-04-05T14:05+0000
-external-url: https://daringfireball.net/2021/05/the_new_siri_remote_etc
 ---
 
 <img src="https://daringfireball.net/misc/2021/05/three-remotes-top.jpeg" alt="Three generations of Apple TV remotes, side-by-side." width="450">
 
-I was thinking to take similar shot with 3 remotes, but I don't have my aluminium one any longer as it was lost and never found. Read the full review it's good. Here's some quotes which cracked me up.
+I was thinking to take similar shot but my aluminium remote was lost. Read the [Gruber's review,](https://daringfireball.net/2021/05/the_new_siri_remote_etc) it's good. Here's some quotes which cracked me up.
 
 > I never liked that black Siri Remote, but over the years — six! — that I’ve been using it, I’ve grown to truly resent it.
 
