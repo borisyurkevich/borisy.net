@@ -13,4 +13,4 @@ I was thinking to take similar shot with 3 remotes, but I don't have my aluminiu
 
 > It’s black and has no backlighting, which makes it harder to see in the dark. I believe some people like to watch movies in dark rooms.
 
-This review made me think, why we need dedicated play/pause button at all. Apple are learning from past mistakes and reusing things which worked. The plastic version had the play/pause button in the middle. The current remote still can be used this way, pressing the middle button pauses playback. tvOS is a bit more evolved. Perhaps Apple though you should be able to pause music playback at any moment, including when music app is on background. But how many people use Apple TV this way? I am not one of them.
+This review made me think, why we need dedicated play/pause button at all? Apple are learning from past mistakes and reusing things which worked. The plastic version (not in the picture) had the play/pause button in the middle. The current remote still can be used this way, pressing the middle button pauses playback. Perhaps Apple though you should be able to pause music playback when playing app is on background.
