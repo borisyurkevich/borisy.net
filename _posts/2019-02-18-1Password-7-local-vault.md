@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Running 1Password 7 in Stand-alone Vault Mode."
+title:  "Running 1Password 7 in Stand-alone Vault Mode"
 date:  2019-02-18T22:47+0000
 ---
 
 ### Be warned.
 
-Having lived with this setup, I found out that I have to perform this steps every time the app is updated. I also have to disable Safari extension.
+Having lived with this setup, I found out that I have to perform these steps every time the app is updated. I also have to disable the Safari extension.
 
 ### 1Password 7 and local mode.
 
@@ -18,7 +18,7 @@ It's easy with 1Password 6.
 2. Disable iCloud sync.
 3. Create a local vault and use it.
 
-With 1Password 7 subscription model you can download the app for free but in order to use it, you have to sign-in into your 1Password account. After that, you can create a vault outside of your cloud managed account but you'l still have a local copy of all of your 1Password account items. You can hide cloud vaults, but there's no obvious way to sign-out and stop 1Password 7 from fetching your data from the cloud.
+With 1Password 7 subscription model you can download the app for free but to use it, you have to sign in to your 1Password account. After that, you can create a vault outside of your cloud managed account but you'll still have a local copy of all of your 1Password account items. You can hide cloud vaults, but there's no obvious way to sign out and stop 1Password 7 from fetching your data from the cloud.
 
 ### How to run 1Password 7 in local mode.
 
@@ -35,4 +35,4 @@ This will prompt a warning that all your local data is going to be replaced. If 
 
 ### Don't forget to backup.
 
-1Password makes automatic backups but it's your duty to copy them to some place which is not your Mac. Time Machine can do it automatically.
+1Password makes automatic backups but you have to copy them to someplace which is not your Mac. Time Machine can do it automatically.
