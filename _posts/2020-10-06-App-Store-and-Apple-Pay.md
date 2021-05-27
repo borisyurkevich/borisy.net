@@ -6,7 +6,7 @@ date: 2020-10-06T7:50:36+0100
 
 I know it seems obvious, but for a long time, you couldn't choose Apple Pay, Apple's own payment system, when setting up your Apple ID. I needed to update my card yesterday and have noticed the new option. I am attaching the screenshot, have you noticed the Apple Pay icon? It used to say "App Store". 
 
-![App Store screenshot showing the Florence game confirm with Touch ID payment sheet, the price is £2.99]({{site.url}}/images/florence-apple-pay.jpeg)
+<img src="{{site.url}}/images/florence-apple-pay.jpeg" alt="App Store screenshot showing the Florence game confirm with Touch ID payment sheet, the price is £2.99" width="375">
 
 This could bring new possibilities:
 
