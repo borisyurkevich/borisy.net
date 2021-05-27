@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Listen to Lossless Music Without Subscription"
+title: "Listen to Lossless Music Without a Subscription"
 date: 2021-05-27T19:28:58+0100
 ---
 
