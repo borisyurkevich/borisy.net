@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Epic Games VS The App Store"
+title: "Epic Games vs. The App Store"
 date: 2021-05-26T17:33:26+0100
 ---
 
