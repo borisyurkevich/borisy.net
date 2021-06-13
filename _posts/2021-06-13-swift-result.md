@@ -11,13 +11,13 @@ While working on [Caffeine++][1] 2.0, I have replaced most of my completion hand
 ```swift
 // Function declaration
 func authorizeHealthKit(completion: @escaping (Result<Void, Error>) -> Void) {
-	// Request authorisation and call completion block
-	completion(.success(()))
+    // Request authorisation and call completion block
+    completion(.success(()))
 }
 
 // Usage example
 healthManager.authorizeHealthKit { result in
-	switch result {
+    switch result {
     case .success:
         // Handle success
     case .failure(let error):
@@ -29,8 +29,8 @@ healthManager.authorizeHealthKit { result in
 ```swift
 // Function declaration
 func authorizeHealthKit(completion: @escaping (Error?) -> Void) {
-	// Request authorisation and call completion block
-	completion(nil)
+    // Request authorisation and call completion block
+    completion(nil)
 }
 
 // Usage example
