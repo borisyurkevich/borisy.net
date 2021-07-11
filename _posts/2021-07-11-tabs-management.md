@@ -4,7 +4,7 @@ title: "Tabs Management"
 date: 2021-07-11T11:31:27+0100
 ---
 
-There's a macOS update coming with a huge Safari redesign. Some people would There's a macOS update coming with a huge Safari redesign. Some people would call it controversial. I won't cover the Safari redesign, as I am mostly sure, Apple is going to reverse this decision either before public release or, more likely, in a subsequent major macOS update. The design of UX can change, how you use your applications can stick with you for your entire life.
+There's a macOS update coming with a huge Safari redesign. Some people would call it controversial. I won't cover the Safari redesign, as I am mostly sure, Apple is going to reverse this decision either before public release or, more likely, in a subsequent major macOS update. The design of UX can change, how you use your applications can stick with you for your entire life.
 
 One of a way I like to use any desktop operating system is having multiple windows open for a single application. Let's take the most commonly used application, such as a web browser. Whenever I have a problem or a topic to research, I hit Command + N and start web search in the first tab, and open results in new tabs, keeping each window dedicated to a separate task. It requires management but this gives me 2 killer benefits.
 
